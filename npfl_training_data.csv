@@ -1,0 +1,1467 @@
+Season,Home_Team,Away_Team,Home_Goals,Away_Goals,Outcome,Home_Attack,Home_Defense,Away_Defense,Away_Attack,Home_Exp_Goals,Away_Exp_Goals,Power_Diff
+2024-25,Abia Warriors,Akwa United,2,0,Home Win,1.51,0.49,1.35,0.56,1.43,0.53,0.9
+2024-25,Abia Warriors,Bayelsa United,1,0,Home Win,1.51,0.49,1.37,0.61,1.44,0.55,0.89
+2024-25,Abia Warriors,Bendel Insurance,1,0,Home Win,1.51,0.49,1.11,0.61,1.31,0.55,0.76
+2024-25,Abia Warriors,El-Kanemi Warriors,2,1,Home Win,1.51,0.49,1.75,0.47,1.63,0.48,1.15
+2024-25,Abia Warriors,Enugu Rangers,1,0,Home Win,1.51,0.49,1.12,0.68,1.31,0.58,0.73
+2024-25,Abia Warriors,Enyimba,1,1,Draw,1.51,0.49,1.19,0.66,1.35,0.58,0.77
+2024-25,Abia Warriors,Heartland,0,2,Away Win,1.51,0.49,1.6,0.51,1.55,0.5,1.05
+2024-25,Abia Warriors,Ikorodu City,2,0,Home Win,1.51,0.49,1.35,0.73,1.43,0.61,0.81
+2024-25,Abia Warriors,Kano Pillars,2,0,Home Win,1.51,0.49,1.73,0.67,1.62,0.58,1.04
+2024-25,Abia Warriors,Katsina United,2,0,Home Win,1.51,0.49,1.46,0.28,1.48,0.39,1.1
+2024-25,Abia Warriors,Kwara United,1,0,Home Win,1.51,0.49,1.59,0.59,1.55,0.54,1.01
+2024-25,Abia Warriors,Lobi Stars,2,0,Home Win,1.51,0.49,1.64,0.58,1.57,0.53,1.04
+2024-25,Abia Warriors,Nasarawa United,1,1,Draw,1.51,0.49,1.55,0.67,1.53,0.58,0.94
+2024-25,Abia Warriors,Niger Tornadoes,2,1,Home Win,1.51,0.49,1.49,0.63,1.5,0.56,0.94
+2024-25,Abia Warriors,Plateau United,3,1,Home Win,1.51,0.49,1.55,0.81,1.53,0.65,0.88
+2024-25,Abia Warriors,Remo Stars,0,2,Away Win,1.51,0.49,1.38,0.75,1.45,0.62,0.82
+2024-25,Abia Warriors,Rivers United,2,0,Home Win,1.51,0.49,1.15,0.7,1.33,0.6,0.73
+2024-25,Abia Warriors,Shooting Stars,3,1,Home Win,1.51,0.49,1.52,0.64,1.51,0.57,0.95
+2024-25,Abia Warriors,Sunshine Stars,3,0,Home Win,1.51,0.49,1.42,0.45,1.47,0.47,0.99
+2024-25,Akwa United,Abia Warriors,1,1,Draw,1.53,0.64,1.72,0.8,1.62,0.72,0.91
+2024-25,Akwa United,Bayelsa United,2,0,Home Win,1.53,0.64,1.37,0.61,1.45,0.62,0.83
+2024-25,Akwa United,Bendel Insurance,1,1,Draw,1.53,0.64,1.11,0.61,1.32,0.62,0.7
+2024-25,Akwa United,El-Kanemi Warriors,1,1,Draw,1.53,0.64,1.75,0.47,1.64,0.55,1.09
+2024-25,Akwa United,Enugu Rangers,0,0,Draw,1.53,0.64,1.12,0.68,1.33,0.66,0.67
+2024-25,Akwa United,Enyimba,2,1,Home Win,1.53,0.64,1.19,0.66,1.36,0.65,0.71
+2024-25,Akwa United,Heartland,2,0,Home Win,1.53,0.64,1.6,0.51,1.56,0.57,0.99
+2024-25,Akwa United,Ikorodu City,2,1,Home Win,1.53,0.64,1.35,0.73,1.44,0.68,0.75
+2024-25,Akwa United,Kano Pillars,2,0,Home Win,1.53,0.64,1.73,0.67,1.63,0.65,0.98
+2024-25,Akwa United,Katsina United,1,0,Home Win,1.53,0.64,1.46,0.28,1.5,0.46,1.04
+2024-25,Akwa United,Kwara United,2,1,Home Win,1.53,0.64,1.59,0.59,1.56,0.62,0.95
+2024-25,Akwa United,Lobi Stars,1,1,Draw,1.53,0.64,1.64,0.58,1.58,0.61,0.98
+2024-25,Akwa United,Nasarawa United,1,0,Home Win,1.53,0.64,1.55,0.67,1.54,0.65,0.88
+2024-25,Akwa United,Niger Tornadoes,2,0,Home Win,1.53,0.64,1.49,0.63,1.51,0.63,0.88
+2024-25,Akwa United,Plateau United,1,0,Home Win,1.53,0.64,1.55,0.81,1.54,0.72,0.82
+2024-25,Akwa United,Remo Stars,1,2,Away Win,1.53,0.64,1.38,0.75,1.46,0.69,0.76
+2024-25,Akwa United,Rivers United,1,1,Draw,1.53,0.64,1.15,0.7,1.34,0.67,0.67
+2024-25,Akwa United,Shooting Stars,2,0,Home Win,1.53,0.64,1.52,0.64,1.53,0.64,0.89
+2024-25,Akwa United,Sunshine Stars,1,2,Away Win,1.53,0.64,1.42,0.45,1.48,0.55,0.93
+2024-25,Bayelsa United,Abia Warriors,0,1,Away Win,1.71,0.95,1.72,0.8,1.71,0.87,0.84
+2024-25,Bayelsa United,Akwa United,2,1,Home Win,1.71,0.95,1.35,0.56,1.53,0.75,0.78
+2024-25,Bayelsa United,Bendel Insurance,2,1,Home Win,1.71,0.95,1.11,0.61,1.41,0.78,0.63
+2024-25,Bayelsa United,El-Kanemi Warriors,2,1,Home Win,1.71,0.95,1.75,0.47,1.73,0.71,1.02
+2024-25,Bayelsa United,Enugu Rangers,0,0,Draw,1.71,0.95,1.12,0.68,1.42,0.81,0.6
+2024-25,Bayelsa United,Enyimba,1,1,Draw,1.71,0.95,1.19,0.66,1.45,0.8,0.65
+2024-25,Bayelsa United,Heartland,1,0,Home Win,1.71,0.95,1.6,0.51,1.65,0.73,0.93
+2024-25,Bayelsa United,Ikorodu City,1,0,Home Win,1.71,0.95,1.35,0.73,1.53,0.84,0.69
+2024-25,Bayelsa United,Kano Pillars,1,1,Draw,1.71,0.95,1.73,0.67,1.72,0.81,0.91
+2024-25,Bayelsa United,Katsina United,1,1,Draw,1.71,0.95,1.46,0.28,1.59,0.61,0.97
+2024-25,Bayelsa United,Kwara United,1,1,Draw,1.71,0.95,1.59,0.59,1.65,0.77,0.88
+2024-25,Bayelsa United,Lobi Stars,1,0,Home Win,1.71,0.95,1.64,0.58,1.67,0.76,0.91
+2024-25,Bayelsa United,Nasarawa United,2,2,Draw,1.71,0.95,1.55,0.67,1.63,0.81,0.82
+2024-25,Bayelsa United,Niger Tornadoes,4,1,Home Win,1.71,0.95,1.49,0.63,1.6,0.79,0.81
+2024-25,Bayelsa United,Plateau United,1,0,Home Win,1.71,0.95,1.55,0.81,1.63,0.88,0.75
+2024-25,Bayelsa United,Remo Stars,3,0,Home Win,1.71,0.95,1.38,0.75,1.55,0.85,0.7
+2024-25,Bayelsa United,Rivers United,1,0,Home Win,1.71,0.95,1.15,0.7,1.43,0.82,0.61
+2024-25,Bayelsa United,Shooting Stars,3,0,Home Win,1.71,0.95,1.52,0.64,1.61,0.79,0.82
+2024-25,Bayelsa United,Sunshine Stars,4,1,Home Win,1.71,0.95,1.42,0.45,1.57,0.7,0.87
+2024-25,Bendel Insurance,Abia Warriors,0,1,Away Win,1.35,0.53,1.72,0.8,1.53,0.66,0.87
+2024-25,Bendel Insurance,Akwa United,1,0,Home Win,1.35,0.53,1.35,0.56,1.35,0.54,0.8
+2024-25,Bendel Insurance,Bayelsa United,3,0,Home Win,1.35,0.53,1.37,0.61,1.36,0.57,0.79
+2024-25,Bendel Insurance,El-Kanemi Warriors,1,1,Draw,1.35,0.53,1.75,0.47,1.55,0.5,1.05
+2024-25,Bendel Insurance,Enugu Rangers,0,0,Draw,1.35,0.53,1.12,0.68,1.23,0.6,0.63
+2024-25,Bendel Insurance,Enyimba,1,0,Home Win,1.35,0.53,1.19,0.66,1.27,0.59,0.68
+2024-25,Bendel Insurance,Heartland,1,0,Home Win,1.35,0.53,1.6,0.51,1.47,0.52,0.95
+2024-25,Bendel Insurance,Ikorodu City,2,1,Home Win,1.35,0.53,1.35,0.73,1.35,0.63,0.72
+2024-25,Bendel Insurance,Kano Pillars,0,1,Away Win,1.35,0.53,1.73,0.67,1.54,0.6,0.94
+2024-25,Bendel Insurance,Katsina United,1,0,Home Win,1.35,0.53,1.46,0.28,1.4,0.4,1.0
+2024-25,Bendel Insurance,Kwara United,3,1,Home Win,1.35,0.53,1.59,0.59,1.47,0.56,0.91
+2024-25,Bendel Insurance,Lobi Stars,1,0,Home Win,1.35,0.53,1.64,0.58,1.49,0.55,0.94
+2024-25,Bendel Insurance,Nasarawa United,1,1,Draw,1.35,0.53,1.55,0.67,1.45,0.6,0.85
+2024-25,Bendel Insurance,Niger Tornadoes,3,0,Home Win,1.35,0.53,1.49,0.63,1.42,0.58,0.84
+2024-25,Bendel Insurance,Plateau United,2,1,Home Win,1.35,0.53,1.55,0.81,1.45,0.67,0.78
+2024-25,Bendel Insurance,Remo Stars,2,1,Home Win,1.35,0.53,1.38,0.75,1.36,0.64,0.72
+2024-25,Bendel Insurance,Rivers United,0,0,Draw,1.35,0.53,1.15,0.7,1.25,0.62,0.63
+2024-25,Bendel Insurance,Shooting Stars,1,0,Home Win,1.35,0.53,1.52,0.64,1.43,0.59,0.85
+2024-25,Bendel Insurance,Sunshine Stars,1,0,Home Win,1.35,0.53,1.42,0.45,1.38,0.49,0.89
+2024-25,El-Kanemi Warriors,Abia Warriors,3,0,Home Win,1.09,0.6,1.72,0.8,1.4,0.7,0.7
+2024-25,El-Kanemi Warriors,Akwa United,1,0,Home Win,1.09,0.6,1.35,0.56,1.22,0.58,0.64
+2024-25,El-Kanemi Warriors,Bayelsa United,0,0,Draw,1.09,0.6,1.37,0.61,1.23,0.61,0.62
+2024-25,El-Kanemi Warriors,Bendel Insurance,0,0,Draw,1.09,0.6,1.11,0.61,1.1,0.61,0.49
+2024-25,El-Kanemi Warriors,Enugu Rangers,2,1,Home Win,1.09,0.6,1.12,0.68,1.1,0.64,0.47
+2024-25,El-Kanemi Warriors,Enyimba,1,0,Home Win,1.09,0.6,1.19,0.66,1.14,0.63,0.51
+2024-25,El-Kanemi Warriors,Heartland,0,0,Draw,1.09,0.6,1.6,0.51,1.34,0.55,0.79
+2024-25,El-Kanemi Warriors,Ikorodu City,1,1,Draw,1.09,0.6,1.35,0.73,1.22,0.67,0.55
+2024-25,El-Kanemi Warriors,Kano Pillars,1,0,Home Win,1.09,0.6,1.73,0.67,1.41,0.64,0.77
+2024-25,El-Kanemi Warriors,Katsina United,1,0,Home Win,1.09,0.6,1.46,0.28,1.27,0.44,0.84
+2024-25,El-Kanemi Warriors,Kwara United,1,1,Draw,1.09,0.6,1.59,0.59,1.34,0.6,0.74
+2024-25,El-Kanemi Warriors,Lobi Stars,1,0,Home Win,1.09,0.6,1.64,0.58,1.36,0.59,0.77
+2024-25,El-Kanemi Warriors,Nasarawa United,1,0,Home Win,1.09,0.6,1.55,0.67,1.32,0.64,0.68
+2024-25,El-Kanemi Warriors,Niger Tornadoes,1,0,Home Win,1.09,0.6,1.49,0.63,1.29,0.62,0.67
+2024-25,El-Kanemi Warriors,Plateau United,2,2,Draw,1.09,0.6,1.55,0.81,1.32,0.71,0.61
+2024-25,El-Kanemi Warriors,Remo Stars,2,0,Home Win,1.09,0.6,1.38,0.75,1.23,0.68,0.56
+2024-25,El-Kanemi Warriors,Rivers United,1,2,Away Win,1.09,0.6,1.15,0.7,1.12,0.65,0.47
+2024-25,El-Kanemi Warriors,Shooting Stars,2,2,Draw,1.09,0.6,1.52,0.64,1.3,0.62,0.68
+2024-25,El-Kanemi Warriors,Sunshine Stars,1,0,Home Win,1.09,0.6,1.42,0.45,1.25,0.53,0.73
+2024-25,Enugu Rangers,Abia Warriors,1,0,Home Win,1.6,0.56,1.72,0.8,1.66,0.68,0.98
+2024-25,Enugu Rangers,Akwa United,1,1,Draw,1.6,0.56,1.35,0.56,1.48,0.56,0.91
+2024-25,Enugu Rangers,Bayelsa United,1,0,Home Win,1.6,0.56,1.37,0.61,1.49,0.59,0.9
+2024-25,Enugu Rangers,Bendel Insurance,3,2,Home Win,1.6,0.56,1.11,0.61,1.36,0.59,0.77
+2024-25,Enugu Rangers,El-Kanemi Warriors,0,0,Draw,1.6,0.56,1.75,0.47,1.68,0.52,1.16
+2024-25,Enugu Rangers,Enyimba,1,2,Away Win,1.6,0.56,1.19,0.66,1.4,0.61,0.79
+2024-25,Enugu Rangers,Heartland,0,2,Away Win,1.6,0.56,1.6,0.51,1.6,0.54,1.06
+2024-25,Enugu Rangers,Ikorodu City,2,0,Home Win,1.6,0.56,1.35,0.73,1.47,0.65,0.83
+2024-25,Enugu Rangers,Kano Pillars,3,4,Away Win,1.6,0.56,1.73,0.67,1.67,0.62,1.05
+2024-25,Enugu Rangers,Katsina United,4,0,Home Win,1.6,0.56,1.46,0.28,1.53,0.42,1.11
+2024-25,Enugu Rangers,Kwara United,3,0,Home Win,1.6,0.56,1.59,0.59,1.6,0.58,1.02
+2024-25,Enugu Rangers,Lobi Stars,3,0,Home Win,1.6,0.56,1.64,0.58,1.62,0.57,1.05
+2024-25,Enugu Rangers,Nasarawa United,2,0,Home Win,1.6,0.56,1.55,0.67,1.57,0.62,0.96
+2024-25,Enugu Rangers,Niger Tornadoes,1,2,Away Win,1.6,0.56,1.49,0.63,1.55,0.6,0.95
+2024-25,Enugu Rangers,Plateau United,0,1,Away Win,1.6,0.56,1.55,0.81,1.58,0.69,0.89
+2024-25,Enugu Rangers,Remo Stars,2,1,Home Win,1.6,0.56,1.38,0.75,1.49,0.66,0.84
+2024-25,Enugu Rangers,Rivers United,1,0,Home Win,1.6,0.56,1.15,0.7,1.38,0.63,0.75
+2024-25,Enugu Rangers,Shooting Stars,0,1,Away Win,1.6,0.56,1.52,0.64,1.56,0.6,0.96
+2024-25,Enugu Rangers,Sunshine Stars,3,0,Home Win,1.6,0.56,1.42,0.45,1.51,0.51,1.01
+2024-25,Enyimba,Abia Warriors,2,1,Home Win,1.55,0.57,1.72,0.8,1.64,0.68,0.95
+2024-25,Enyimba,Akwa United,1,0,Home Win,1.55,0.57,1.35,0.56,1.45,0.56,0.89
+2024-25,Enyimba,Bayelsa United,1,1,Draw,1.55,0.57,1.37,0.61,1.46,0.59,0.87
+2024-25,Enyimba,Bendel Insurance,0,0,Draw,1.55,0.57,1.11,0.61,1.33,0.59,0.74
+2024-25,Enyimba,El-Kanemi Warriors,1,0,Home Win,1.55,0.57,1.75,0.47,1.65,0.52,1.13
+2024-25,Enyimba,Enugu Rangers,0,0,Draw,1.55,0.57,1.12,0.68,1.34,0.62,0.72
+2024-25,Enyimba,Heartland,1,1,Draw,1.55,0.57,1.6,0.51,1.58,0.54,1.04
+2024-25,Enyimba,Ikorodu City,2,1,Home Win,1.55,0.57,1.35,0.73,1.45,0.65,0.8
+2024-25,Enyimba,Kano Pillars,2,1,Home Win,1.55,0.57,1.73,0.67,1.64,0.62,1.02
+2024-25,Enyimba,Katsina United,3,0,Home Win,1.55,0.57,1.46,0.28,1.51,0.42,1.09
+2024-25,Enyimba,Kwara United,2,0,Home Win,1.55,0.57,1.59,0.59,1.57,0.58,0.99
+2024-25,Enyimba,Lobi Stars,2,1,Home Win,1.55,0.57,1.64,0.58,1.6,0.57,1.02
+2024-25,Enyimba,Nasarawa United,2,1,Home Win,1.55,0.57,1.55,0.67,1.55,0.62,0.93
+2024-25,Enyimba,Niger Tornadoes,1,1,Draw,1.55,0.57,1.49,0.63,1.52,0.6,0.92
+2024-25,Enyimba,Plateau United,0,1,Away Win,1.55,0.57,1.55,0.81,1.55,0.69,0.86
+2024-25,Enyimba,Remo Stars,0,0,Draw,1.55,0.57,1.38,0.75,1.47,0.66,0.81
+2024-25,Enyimba,Rivers United,1,0,Home Win,1.55,0.57,1.15,0.7,1.35,0.64,0.72
+2024-25,Enyimba,Shooting Stars,1,1,Draw,1.55,0.57,1.52,0.64,1.54,0.61,0.93
+2024-25,Enyimba,Sunshine Stars,0,0,Draw,1.55,0.57,1.42,0.45,1.49,0.51,0.98
+2024-25,Heartland,Abia Warriors,0,1,Away Win,1.26,0.72,1.72,0.8,1.49,0.76,0.73
+2024-25,Heartland,Akwa United,2,1,Home Win,1.26,0.72,1.35,0.56,1.31,0.64,0.67
+2024-25,Heartland,Bayelsa United,1,1,Draw,1.26,0.72,1.37,0.61,1.32,0.67,0.65
+2024-25,Heartland,Bendel Insurance,1,1,Draw,1.26,0.72,1.11,0.61,1.19,0.67,0.52
+2024-25,Heartland,El-Kanemi Warriors,0,0,Draw,1.26,0.72,1.75,0.47,1.51,0.6,0.91
+2024-25,Heartland,Enugu Rangers,0,0,Draw,1.26,0.72,1.12,0.68,1.19,0.7,0.49
+2024-25,Heartland,Enyimba,1,3,Away Win,1.26,0.72,1.19,0.66,1.23,0.69,0.54
+2024-25,Heartland,Ikorodu City,1,1,Draw,1.26,0.72,1.35,0.73,1.3,0.73,0.58
+2024-25,Heartland,Kano Pillars,2,0,Home Win,1.26,0.72,1.73,0.67,1.5,0.7,0.8
+2024-25,Heartland,Katsina United,0,0,Draw,1.26,0.72,1.46,0.28,1.36,0.5,0.86
+2024-25,Heartland,Kwara United,0,0,Draw,1.26,0.72,1.59,0.59,1.43,0.66,0.77
+2024-25,Heartland,Lobi Stars,1,0,Home Win,1.26,0.72,1.64,0.58,1.45,0.65,0.8
+2024-25,Heartland,Nasarawa United,3,2,Home Win,1.26,0.72,1.55,0.67,1.4,0.7,0.71
+2024-25,Heartland,Niger Tornadoes,2,0,Home Win,1.26,0.72,1.49,0.63,1.38,0.67,0.7
+2024-25,Heartland,Plateau United,2,0,Home Win,1.26,0.72,1.55,0.81,1.41,0.77,0.64
+2024-25,Heartland,Remo Stars,1,0,Home Win,1.26,0.72,1.38,0.75,1.32,0.74,0.59
+2024-25,Heartland,Rivers United,2,0,Home Win,1.26,0.72,1.15,0.7,1.21,0.71,0.5
+2024-25,Heartland,Shooting Stars,2,1,Home Win,1.26,0.72,1.52,0.64,1.39,0.68,0.71
+2024-25,Heartland,Sunshine Stars,1,0,Home Win,1.26,0.72,1.42,0.45,1.34,0.59,0.76
+2024-25,Ikorodu City,Abia Warriors,3,2,Home Win,2.19,0.74,1.72,0.8,1.95,0.77,1.18
+2024-25,Ikorodu City,Akwa United,4,1,Home Win,2.19,0.74,1.35,0.56,1.77,0.65,1.12
+2024-25,Ikorodu City,Bayelsa United,3,2,Home Win,2.19,0.74,1.37,0.61,1.78,0.68,1.1
+2024-25,Ikorodu City,Bendel Insurance,3,0,Home Win,2.19,0.74,1.11,0.61,1.65,0.68,0.97
+2024-25,Ikorodu City,El-Kanemi Warriors,2,0,Home Win,2.19,0.74,1.75,0.47,1.97,0.61,1.36
+2024-25,Ikorodu City,Enugu Rangers,0,1,Away Win,2.19,0.74,1.12,0.68,1.65,0.71,0.95
+2024-25,Ikorodu City,Enyimba,2,2,Draw,2.19,0.74,1.19,0.66,1.69,0.7,0.99
+2024-25,Ikorodu City,Heartland,2,0,Home Win,2.19,0.74,1.6,0.51,1.89,0.62,1.27
+2024-25,Ikorodu City,Kano Pillars,4,1,Home Win,2.19,0.74,1.73,0.67,1.96,0.71,1.25
+2024-25,Ikorodu City,Katsina United,6,0,Home Win,2.19,0.74,1.46,0.28,1.82,0.51,1.31
+2024-25,Ikorodu City,Kwara United,2,1,Home Win,2.19,0.74,1.59,0.59,1.89,0.67,1.22
+2024-25,Ikorodu City,Lobi Stars,4,2,Home Win,2.19,0.74,1.64,0.58,1.91,0.66,1.25
+2024-25,Ikorodu City,Nasarawa United,1,2,Away Win,2.19,0.74,1.55,0.67,1.87,0.71,1.16
+2024-25,Ikorodu City,Niger Tornadoes,3,0,Home Win,2.19,0.74,1.49,0.63,1.84,0.69,1.15
+2024-25,Ikorodu City,Plateau United,2,1,Home Win,2.19,0.74,1.55,0.81,1.87,0.78,1.09
+2024-25,Ikorodu City,Remo Stars,1,1,Draw,2.19,0.74,1.38,0.75,1.78,0.75,1.04
+2024-25,Ikorodu City,Rivers United,2,0,Home Win,2.19,0.74,1.15,0.7,1.67,0.72,0.95
+2024-25,Ikorodu City,Shooting Stars,2,1,Home Win,2.19,0.74,1.52,0.64,1.85,0.69,1.16
+2024-25,Ikorodu City,Sunshine Stars,2,1,Home Win,2.19,0.74,1.42,0.45,1.8,0.6,1.21
+2024-25,Kano Pillars,Abia Warriors,1,0,Home Win,1.44,0.58,1.72,0.8,1.58,0.69,0.89
+2024-25,Kano Pillars,Akwa United,1,0,Home Win,1.44,0.58,1.35,0.56,1.39,0.57,0.82
+2024-25,Kano Pillars,Bayelsa United,0,0,Draw,1.44,0.58,1.37,0.61,1.4,0.59,0.81
+2024-25,Kano Pillars,Bendel Insurance,0,0,Draw,1.44,0.58,1.11,0.61,1.27,0.59,0.68
+2024-25,Kano Pillars,El-Kanemi Warriors,2,1,Home Win,1.44,0.58,1.75,0.47,1.59,0.53,1.07
+2024-25,Kano Pillars,Enugu Rangers,2,1,Home Win,1.44,0.58,1.12,0.68,1.28,0.63,0.65
+2024-25,Kano Pillars,Enyimba,2,0,Home Win,1.44,0.58,1.19,0.66,1.31,0.62,0.7
+2024-25,Kano Pillars,Heartland,2,2,Draw,1.44,0.58,1.6,0.51,1.52,0.54,0.97
+2024-25,Kano Pillars,Ikorodu City,3,0,Home Win,1.44,0.58,1.35,0.73,1.39,0.65,0.74
+2024-25,Kano Pillars,Katsina United,1,0,Home Win,1.44,0.58,1.46,0.28,1.45,0.43,1.02
+2024-25,Kano Pillars,Kwara United,1,1,Draw,1.44,0.58,1.59,0.59,1.52,0.59,0.93
+2024-25,Kano Pillars,Lobi Stars,2,0,Home Win,1.44,0.58,1.64,0.58,1.54,0.58,0.96
+2024-25,Kano Pillars,Nasarawa United,1,1,Draw,1.44,0.58,1.55,0.67,1.49,0.63,0.87
+2024-25,Kano Pillars,Niger Tornadoes,2,1,Home Win,1.44,0.58,1.49,0.63,1.47,0.6,0.86
+2024-25,Kano Pillars,Plateau United,2,1,Home Win,1.44,0.58,1.55,0.81,1.5,0.69,0.8
+2024-25,Kano Pillars,Remo Stars,0,2,Away Win,1.44,0.58,1.38,0.75,1.41,0.67,0.74
+2024-25,Kano Pillars,Rivers United,2,0,Home Win,1.44,0.58,1.15,0.7,1.3,0.64,0.66
+2024-25,Kano Pillars,Shooting Stars,3,1,Home Win,1.44,0.58,1.52,0.64,1.48,0.61,0.87
+2024-25,Kano Pillars,Sunshine Stars,2,0,Home Win,1.44,0.58,1.42,0.45,1.43,0.52,0.91
+2024-25,Katsina United,Abia Warriors,5,1,Home Win,1.59,0.58,1.72,0.8,1.65,0.69,0.97
+2024-25,Katsina United,Akwa United,1,0,Home Win,1.59,0.58,1.35,0.56,1.47,0.57,0.9
+2024-25,Katsina United,Bayelsa United,1,1,Draw,1.59,0.58,1.37,0.61,1.48,0.59,0.89
+2024-25,Katsina United,Bendel Insurance,2,1,Home Win,1.59,0.58,1.11,0.61,1.35,0.59,0.76
+2024-25,Katsina United,El-Kanemi Warriors,3,0,Home Win,1.59,0.58,1.75,0.47,1.67,0.53,1.15
+2024-25,Katsina United,Enugu Rangers,0,0,Draw,1.59,0.58,1.12,0.68,1.36,0.63,0.73
+2024-25,Katsina United,Enyimba,2,1,Home Win,1.59,0.58,1.19,0.66,1.39,0.62,0.77
+2024-25,Katsina United,Heartland,1,0,Home Win,1.59,0.58,1.6,0.51,1.6,0.54,1.05
+2024-25,Katsina United,Ikorodu City,1,2,Away Win,1.59,0.58,1.35,0.73,1.47,0.65,0.82
+2024-25,Katsina United,Kano Pillars,1,0,Home Win,1.59,0.58,1.73,0.67,1.66,0.62,1.04
+2024-25,Katsina United,Kwara United,1,0,Home Win,1.59,0.58,1.59,0.59,1.59,0.59,1.01
+2024-25,Katsina United,Lobi Stars,3,0,Home Win,1.59,0.58,1.64,0.58,1.62,0.58,1.04
+2024-25,Katsina United,Nasarawa United,1,0,Home Win,1.59,0.58,1.55,0.67,1.57,0.63,0.94
+2024-25,Katsina United,Niger Tornadoes,1,1,Draw,1.59,0.58,1.49,0.63,1.54,0.6,0.94
+2024-25,Katsina United,Plateau United,1,0,Home Win,1.59,0.58,1.55,0.81,1.57,0.69,0.88
+2024-25,Katsina United,Remo Stars,2,0,Home Win,1.59,0.58,1.38,0.75,1.49,0.67,0.82
+2024-25,Katsina United,Rivers United,0,0,Draw,1.59,0.58,1.15,0.7,1.37,0.64,0.73
+2024-25,Katsina United,Shooting Stars,1,0,Home Win,1.59,0.58,1.52,0.64,1.56,0.61,0.95
+2024-25,Katsina United,Sunshine Stars,1,0,Home Win,1.59,0.58,1.42,0.45,1.51,0.52,0.99
+2024-25,Kwara United,Abia Warriors,0,0,Draw,1.36,0.47,1.72,0.8,1.54,0.63,0.9
+2024-25,Kwara United,Akwa United,0,2,Away Win,1.36,0.47,1.35,0.56,1.35,0.51,0.84
+2024-25,Kwara United,Bayelsa United,1,0,Home Win,1.36,0.47,1.37,0.61,1.36,0.54,0.82
+2024-25,Kwara United,Bendel Insurance,0,1,Away Win,1.36,0.47,1.11,0.61,1.23,0.54,0.7
+2024-25,Kwara United,El-Kanemi Warriors,2,0,Home Win,1.36,0.47,1.75,0.47,1.55,0.47,1.08
+2024-25,Kwara United,Enugu Rangers,1,1,Draw,1.36,0.47,1.12,0.68,1.24,0.57,0.67
+2024-25,Kwara United,Enyimba,2,0,Home Win,1.36,0.47,1.19,0.66,1.27,0.56,0.71
+2024-25,Kwara United,Heartland,1,0,Home Win,1.36,0.47,1.6,0.51,1.48,0.49,0.99
+2024-25,Kwara United,Ikorodu City,0,0,Draw,1.36,0.47,1.35,0.73,1.35,0.6,0.75
+2024-25,Kwara United,Kano Pillars,2,0,Home Win,1.36,0.47,1.73,0.67,1.55,0.57,0.98
+2024-25,Kwara United,Katsina United,1,0,Home Win,1.36,0.47,1.46,0.28,1.41,0.37,1.04
+2024-25,Kwara United,Lobi Stars,4,0,Home Win,1.36,0.47,1.64,0.58,1.5,0.52,0.98
+2024-25,Kwara United,Nasarawa United,1,0,Home Win,1.36,0.47,1.55,0.67,1.45,0.57,0.88
+2024-25,Kwara United,Niger Tornadoes,1,2,Away Win,1.36,0.47,1.49,0.63,1.42,0.55,0.88
+2024-25,Kwara United,Plateau United,2,0,Home Win,1.36,0.47,1.55,0.81,1.46,0.64,0.82
+2024-25,Kwara United,Remo Stars,1,0,Home Win,1.36,0.47,1.38,0.75,1.37,0.61,0.76
+2024-25,Kwara United,Rivers United,3,1,Home Win,1.36,0.47,1.15,0.7,1.26,0.58,0.67
+2024-25,Kwara United,Shooting Stars,2,0,Home Win,1.36,0.47,1.52,0.64,1.44,0.55,0.88
+2024-25,Kwara United,Sunshine Stars,3,0,Home Win,1.36,0.47,1.42,0.45,1.39,0.46,0.93
+2024-25,Lobi Stars,Abia Warriors,3,1,Home Win,1.45,0.89,1.72,0.8,1.59,0.85,0.74
+2024-25,Lobi Stars,Akwa United,0,0,Draw,1.45,0.89,1.35,0.56,1.4,0.73,0.67
+2024-25,Lobi Stars,Bayelsa United,2,1,Home Win,1.45,0.89,1.37,0.61,1.41,0.75,0.66
+2024-25,Lobi Stars,Bendel Insurance,2,1,Home Win,1.45,0.89,1.11,0.61,1.28,0.75,0.53
+2024-25,Lobi Stars,El-Kanemi Warriors,2,2,Draw,1.45,0.89,1.75,0.47,1.6,0.68,0.92
+2024-25,Lobi Stars,Enugu Rangers,2,4,Away Win,1.45,0.89,1.12,0.68,1.29,0.78,0.5
+2024-25,Lobi Stars,Enyimba,0,1,Away Win,1.45,0.89,1.19,0.66,1.32,0.78,0.55
+2024-25,Lobi Stars,Heartland,0,0,Draw,1.45,0.89,1.6,0.51,1.53,0.7,0.82
+2024-25,Lobi Stars,Ikorodu City,0,1,Away Win,1.45,0.89,1.35,0.73,1.4,0.81,0.59
+2024-25,Lobi Stars,Kano Pillars,2,2,Draw,1.45,0.89,1.73,0.67,1.59,0.78,0.81
+2024-25,Lobi Stars,Katsina United,1,1,Draw,1.45,0.89,1.46,0.28,1.46,0.59,0.87
+2024-25,Lobi Stars,Kwara United,1,0,Home Win,1.45,0.89,1.59,0.59,1.52,0.74,0.78
+2024-25,Lobi Stars,Nasarawa United,1,2,Away Win,1.45,0.89,1.55,0.67,1.5,0.78,0.72
+2024-25,Lobi Stars,Niger Tornadoes,0,2,Away Win,1.45,0.89,1.49,0.63,1.47,0.76,0.71
+2024-25,Lobi Stars,Plateau United,1,0,Home Win,1.45,0.89,1.55,0.81,1.5,0.85,0.65
+2024-25,Lobi Stars,Remo Stars,2,2,Draw,1.45,0.89,1.38,0.75,1.42,0.82,0.6
+2024-25,Lobi Stars,Rivers United,0,1,Away Win,1.45,0.89,1.15,0.7,1.3,0.8,0.51
+2024-25,Lobi Stars,Shooting Stars,1,0,Home Win,1.45,0.89,1.52,0.64,1.49,0.77,0.72
+2024-25,Lobi Stars,Sunshine Stars,1,1,Draw,1.45,0.89,1.42,0.45,1.44,0.67,0.77
+2024-25,Nasarawa United,Abia Warriors,3,0,Home Win,1.41,0.69,1.72,0.8,1.56,0.74,0.82
+2024-25,Nasarawa United,Akwa United,2,0,Home Win,1.41,0.69,1.35,0.56,1.38,0.62,0.76
+2024-25,Nasarawa United,Bayelsa United,0,0,Draw,1.41,0.69,1.37,0.61,1.39,0.65,0.74
+2024-25,Nasarawa United,Bendel Insurance,2,1,Home Win,1.41,0.69,1.11,0.61,1.26,0.65,0.61
+2024-25,Nasarawa United,El-Kanemi Warriors,3,4,Away Win,1.41,0.69,1.75,0.47,1.58,0.58,1.0
+2024-25,Nasarawa United,Enugu Rangers,1,0,Home Win,1.41,0.69,1.12,0.68,1.26,0.68,0.58
+2024-25,Nasarawa United,Enyimba,3,2,Home Win,1.41,0.69,1.19,0.66,1.3,0.67,0.63
+2024-25,Nasarawa United,Heartland,1,0,Home Win,1.41,0.69,1.6,0.51,1.5,0.6,0.9
+2024-25,Nasarawa United,Ikorodu City,0,0,Draw,1.41,0.69,1.35,0.73,1.38,0.71,0.67
+2024-25,Nasarawa United,Kano Pillars,1,0,Home Win,1.41,0.69,1.73,0.67,1.57,0.68,0.89
+2024-25,Nasarawa United,Katsina United,1,0,Home Win,1.41,0.69,1.46,0.28,1.43,0.48,0.95
+2024-25,Nasarawa United,Kwara United,0,1,Away Win,1.41,0.69,1.59,0.59,1.5,0.64,0.86
+2024-25,Nasarawa United,Lobi Stars,1,0,Home Win,1.41,0.69,1.64,0.58,1.52,0.63,0.89
+2024-25,Nasarawa United,Niger Tornadoes,2,0,Home Win,1.41,0.69,1.49,0.63,1.45,0.66,0.79
+2024-25,Nasarawa United,Plateau United,3,2,Home Win,1.41,0.69,1.55,0.81,1.48,0.75,0.73
+2024-25,Nasarawa United,Remo Stars,1,0,Home Win,1.41,0.69,1.38,0.75,1.4,0.72,0.68
+2024-25,Nasarawa United,Rivers United,1,1,Draw,1.41,0.69,1.15,0.7,1.28,0.69,0.59
+2024-25,Nasarawa United,Shooting Stars,1,1,Draw,1.41,0.69,1.52,0.64,1.46,0.66,0.8
+2024-25,Nasarawa United,Sunshine Stars,1,1,Draw,1.41,0.69,1.42,0.45,1.42,0.57,0.85
+2024-25,Niger Tornadoes,Abia Warriors,1,1,Draw,1.32,0.58,1.72,0.8,1.52,0.69,0.83
+2024-25,Niger Tornadoes,Akwa United,1,0,Home Win,1.32,0.58,1.35,0.56,1.34,0.57,0.77
+2024-25,Niger Tornadoes,Bayelsa United,1,1,Draw,1.32,0.58,1.37,0.61,1.35,0.6,0.75
+2024-25,Niger Tornadoes,Bendel Insurance,1,1,Draw,1.32,0.58,1.11,0.61,1.22,0.6,0.62
+2024-25,Niger Tornadoes,El-Kanemi Warriors,2,0,Home Win,1.32,0.58,1.75,0.47,1.54,0.53,1.01
+2024-25,Niger Tornadoes,Enugu Rangers,0,1,Away Win,1.32,0.58,1.12,0.68,1.22,0.63,0.59
+2024-25,Niger Tornadoes,Enyimba,0,1,Away Win,1.32,0.58,1.19,0.66,1.26,0.62,0.64
+2024-25,Niger Tornadoes,Heartland,2,1,Home Win,1.32,0.58,1.6,0.51,1.46,0.54,0.92
+2024-25,Niger Tornadoes,Ikorodu City,0,0,Draw,1.32,0.58,1.35,0.73,1.34,0.66,0.68
+2024-25,Niger Tornadoes,Kano Pillars,3,2,Home Win,1.32,0.58,1.73,0.67,1.53,0.63,0.9
+2024-25,Niger Tornadoes,Katsina United,1,0,Home Win,1.32,0.58,1.46,0.28,1.39,0.43,0.96
+2024-25,Niger Tornadoes,Kwara United,2,1,Home Win,1.32,0.58,1.59,0.59,1.46,0.59,0.87
+2024-25,Niger Tornadoes,Lobi Stars,1,1,Draw,1.32,0.58,1.64,0.58,1.48,0.58,0.9
+2024-25,Niger Tornadoes,Nasarawa United,0,0,Draw,1.32,0.58,1.55,0.67,1.43,0.63,0.81
+2024-25,Niger Tornadoes,Plateau United,1,1,Draw,1.32,0.58,1.55,0.81,1.44,0.7,0.74
+2024-25,Niger Tornadoes,Remo Stars,2,1,Home Win,1.32,0.58,1.38,0.75,1.35,0.67,0.69
+2024-25,Niger Tornadoes,Rivers United,0,1,Away Win,1.32,0.58,1.15,0.7,1.24,0.64,0.6
+2024-25,Niger Tornadoes,Shooting Stars,2,0,Home Win,1.32,0.58,1.52,0.64,1.42,0.61,0.81
+2024-25,Niger Tornadoes,Sunshine Stars,4,1,Home Win,1.32,0.58,1.42,0.45,1.37,0.52,0.86
+2024-25,Plateau United,Abia Warriors,1,0,Home Win,1.78,0.49,1.72,0.8,1.75,0.64,1.11
+2024-25,Plateau United,Akwa United,1,0,Home Win,1.78,0.49,1.35,0.56,1.56,0.52,1.04
+2024-25,Plateau United,Bayelsa United,1,0,Home Win,1.78,0.49,1.37,0.61,1.57,0.55,1.03
+2024-25,Plateau United,Bendel Insurance,2,1,Home Win,1.78,0.49,1.11,0.61,1.44,0.55,0.9
+2024-25,Plateau United,El-Kanemi Warriors,2,0,Home Win,1.78,0.49,1.75,0.47,1.76,0.48,1.28
+2024-25,Plateau United,Enugu Rangers,0,0,Draw,1.78,0.49,1.12,0.68,1.45,0.58,0.87
+2024-25,Plateau United,Enyimba,0,0,Draw,1.78,0.49,1.19,0.66,1.48,0.57,0.91
+2024-25,Plateau United,Heartland,3,2,Home Win,1.78,0.49,1.6,0.51,1.69,0.5,1.19
+2024-25,Plateau United,Ikorodu City,1,0,Home Win,1.78,0.49,1.35,0.73,1.56,0.61,0.95
+2024-25,Plateau United,Kano Pillars,2,1,Home Win,1.78,0.49,1.73,0.67,1.76,0.58,1.18
+2024-25,Plateau United,Katsina United,1,0,Home Win,1.78,0.49,1.46,0.28,1.62,0.38,1.24
+2024-25,Plateau United,Kwara United,0,0,Draw,1.78,0.49,1.59,0.59,1.69,0.54,1.15
+2024-25,Plateau United,Lobi Stars,2,1,Home Win,1.78,0.49,1.64,0.58,1.71,0.53,1.18
+2024-25,Plateau United,Nasarawa United,2,0,Home Win,1.78,0.49,1.55,0.67,1.66,0.58,1.08
+2024-25,Plateau United,Niger Tornadoes,1,2,Away Win,1.78,0.49,1.49,0.63,1.64,0.56,1.08
+2024-25,Plateau United,Remo Stars,3,1,Home Win,1.78,0.49,1.38,0.75,1.58,0.62,0.96
+2024-25,Plateau United,Rivers United,2,1,Home Win,1.78,0.49,1.15,0.7,1.47,0.6,0.87
+2024-25,Plateau United,Shooting Stars,1,1,Draw,1.78,0.49,1.52,0.64,1.65,0.56,1.08
+2024-25,Plateau United,Sunshine Stars,3,0,Home Win,1.78,0.49,1.42,0.45,1.6,0.47,1.13
+2024-25,Remo Stars,Abia Warriors,3,2,Home Win,1.71,0.36,1.72,0.8,1.71,0.58,1.14
+2024-25,Remo Stars,Akwa United,2,1,Home Win,1.71,0.36,1.35,0.56,1.53,0.46,1.07
+2024-25,Remo Stars,Bayelsa United,2,0,Home Win,1.71,0.36,1.37,0.61,1.54,0.48,1.06
+2024-25,Remo Stars,Bendel Insurance,1,0,Home Win,1.71,0.36,1.11,0.61,1.41,0.48,0.93
+2024-25,Remo Stars,El-Kanemi Warriors,2,0,Home Win,1.71,0.36,1.75,0.47,1.73,0.41,1.32
+2024-25,Remo Stars,Enugu Rangers,2,1,Home Win,1.71,0.36,1.12,0.68,1.42,0.52,0.9
+2024-25,Remo Stars,Enyimba,2,0,Home Win,1.71,0.36,1.19,0.66,1.45,0.51,0.95
+2024-25,Remo Stars,Heartland,2,0,Home Win,1.71,0.36,1.6,0.51,1.65,0.43,1.22
+2024-25,Remo Stars,Ikorodu City,4,1,Home Win,1.71,0.36,1.35,0.73,1.53,0.54,0.99
+2024-25,Remo Stars,Kano Pillars,2,1,Home Win,1.71,0.36,1.73,0.67,1.72,0.51,1.21
+2024-25,Remo Stars,Katsina United,0,0,Draw,1.71,0.36,1.46,0.28,1.59,0.32,1.27
+2024-25,Remo Stars,Kwara United,2,0,Home Win,1.71,0.36,1.59,0.59,1.65,0.48,1.18
+2024-25,Remo Stars,Lobi Stars,1,0,Home Win,1.71,0.36,1.64,0.58,1.67,0.47,1.21
+2024-25,Remo Stars,Nasarawa United,3,0,Home Win,1.71,0.36,1.55,0.67,1.63,0.51,1.11
+2024-25,Remo Stars,Niger Tornadoes,1,0,Home Win,1.71,0.36,1.49,0.63,1.6,0.49,1.11
+2024-25,Remo Stars,Plateau United,1,0,Home Win,1.71,0.36,1.55,0.81,1.63,0.58,1.05
+2024-25,Remo Stars,Rivers United,0,0,Draw,1.71,0.36,1.15,0.7,1.43,0.53,0.9
+2024-25,Remo Stars,Shooting Stars,2,0,Home Win,1.71,0.36,1.52,0.64,1.62,0.5,1.12
+2024-25,Remo Stars,Sunshine Stars,1,0,Home Win,1.71,0.36,1.42,0.45,1.57,0.41,1.16
+2024-25,Rivers United,Abia Warriors,1,0,Home Win,1.74,0.44,1.72,0.8,1.73,0.62,1.11
+2024-25,Rivers United,Akwa United,2,1,Home Win,1.74,0.44,1.35,0.56,1.54,0.5,1.04
+2024-25,Rivers United,Bayelsa United,0,1,Away Win,1.74,0.44,1.37,0.61,1.56,0.52,1.03
+2024-25,Rivers United,Bendel Insurance,2,2,Draw,1.74,0.44,1.11,0.61,1.43,0.52,0.9
+2024-25,Rivers United,El-Kanemi Warriors,1,1,Draw,1.74,0.44,1.75,0.47,1.74,0.46,1.29
+2024-25,Rivers United,Enugu Rangers,1,0,Home Win,1.74,0.44,1.12,0.68,1.43,0.56,0.87
+2024-25,Rivers United,Enyimba,2,0,Home Win,1.74,0.44,1.19,0.66,1.47,0.55,0.92
+2024-25,Rivers United,Heartland,3,1,Home Win,1.74,0.44,1.6,0.51,1.67,0.47,1.19
+2024-25,Rivers United,Ikorodu City,1,0,Home Win,1.74,0.44,1.35,0.73,1.54,0.58,0.96
+2024-25,Rivers United,Kano Pillars,1,0,Home Win,1.74,0.44,1.73,0.67,1.74,0.56,1.18
+2024-25,Rivers United,Katsina United,1,0,Home Win,1.74,0.44,1.46,0.28,1.6,0.36,1.24
+2024-25,Rivers United,Kwara United,2,1,Home Win,1.74,0.44,1.59,0.59,1.67,0.52,1.15
+2024-25,Rivers United,Lobi Stars,1,0,Home Win,1.74,0.44,1.64,0.58,1.69,0.51,1.18
+2024-25,Rivers United,Nasarawa United,2,1,Home Win,1.74,0.44,1.55,0.67,1.64,0.56,1.09
+2024-25,Rivers United,Niger Tornadoes,1,0,Home Win,1.74,0.44,1.49,0.63,1.62,0.53,1.08
+2024-25,Rivers United,Plateau United,1,1,Draw,1.74,0.44,1.55,0.81,1.65,0.62,1.02
+2024-25,Rivers United,Remo Stars,1,0,Home Win,1.74,0.44,1.38,0.75,1.56,0.6,0.97
+2024-25,Rivers United,Shooting Stars,2,0,Home Win,1.74,0.44,1.52,0.64,1.63,0.54,1.09
+2024-25,Rivers United,Sunshine Stars,1,0,Home Win,1.74,0.44,1.42,0.45,1.58,0.45,1.14
+2024-25,Shooting Stars,Abia Warriors,2,0,Home Win,1.52,0.51,1.72,0.8,1.62,0.65,0.97
+2024-25,Shooting Stars,Akwa United,2,1,Home Win,1.52,0.51,1.35,0.56,1.43,0.53,0.9
+2024-25,Shooting Stars,Bayelsa United,1,0,Home Win,1.52,0.51,1.37,0.61,1.45,0.56,0.89
+2024-25,Shooting Stars,Bendel Insurance,1,0,Home Win,1.52,0.51,1.11,0.61,1.32,0.56,0.76
+2024-25,Shooting Stars,El-Kanemi Warriors,3,0,Home Win,1.52,0.51,1.75,0.47,1.64,0.49,1.15
+2024-25,Shooting Stars,Enugu Rangers,5,1,Home Win,1.52,0.51,1.12,0.68,1.32,0.59,0.73
+2024-25,Shooting Stars,Enyimba,0,0,Draw,1.52,0.51,1.19,0.66,1.36,0.58,0.77
+2024-25,Shooting Stars,Heartland,1,0,Home Win,1.52,0.51,1.6,0.51,1.56,0.51,1.05
+2024-25,Shooting Stars,Ikorodu City,0,0,Draw,1.52,0.51,1.35,0.73,1.43,0.62,0.81
+2024-25,Shooting Stars,Kano Pillars,2,0,Home Win,1.52,0.51,1.73,0.67,1.63,0.59,1.04
+2024-25,Shooting Stars,Katsina United,1,0,Home Win,1.52,0.51,1.46,0.28,1.49,0.39,1.1
+2024-25,Shooting Stars,Kwara United,1,0,Home Win,1.52,0.51,1.59,0.59,1.56,0.55,1.01
+2024-25,Shooting Stars,Lobi Stars,2,2,Draw,1.52,0.51,1.64,0.58,1.58,0.54,1.04
+2024-25,Shooting Stars,Nasarawa United,2,0,Home Win,1.52,0.51,1.55,0.67,1.53,0.59,0.94
+2024-25,Shooting Stars,Niger Tornadoes,3,1,Home Win,1.52,0.51,1.49,0.63,1.51,0.57,0.94
+2024-25,Shooting Stars,Plateau United,1,1,Draw,1.52,0.51,1.55,0.81,1.54,0.66,0.88
+2024-25,Shooting Stars,Remo Stars,0,1,Away Win,1.52,0.51,1.38,0.75,1.45,0.63,0.82
+2024-25,Shooting Stars,Rivers United,0,0,Draw,1.52,0.51,1.15,0.7,1.34,0.61,0.73
+2024-25,Shooting Stars,Sunshine Stars,1,0,Home Win,1.52,0.51,1.42,0.45,1.47,0.48,0.99
+2024-25,Sunshine Stars,Abia Warriors,0,0,Draw,1.38,0.59,1.72,0.8,1.55,0.69,0.85
+2024-25,Sunshine Stars,Akwa United,1,0,Home Win,1.38,0.59,1.35,0.56,1.36,0.58,0.79
+2024-25,Sunshine Stars,Bayelsa United,3,0,Home Win,1.38,0.59,1.37,0.61,1.37,0.6,0.77
+2024-25,Sunshine Stars,Bendel Insurance,1,2,Away Win,1.38,0.59,1.11,0.61,1.24,0.6,0.64
+2024-25,Sunshine Stars,El-Kanemi Warriors,1,0,Home Win,1.38,0.59,1.75,0.47,1.56,0.53,1.03
+2024-25,Sunshine Stars,Enugu Rangers,1,0,Home Win,1.38,0.59,1.12,0.68,1.25,0.63,0.62
+2024-25,Sunshine Stars,Enyimba,2,1,Home Win,1.38,0.59,1.19,0.66,1.29,0.62,0.66
+2024-25,Sunshine Stars,Heartland,0,0,Draw,1.38,0.59,1.6,0.51,1.49,0.55,0.94
+2024-25,Sunshine Stars,Ikorodu City,4,3,Home Win,1.38,0.59,1.35,0.73,1.36,0.66,0.7
+2024-25,Sunshine Stars,Kano Pillars,1,1,Draw,1.38,0.59,1.73,0.67,1.56,0.63,0.93
+2024-25,Sunshine Stars,Katsina United,2,0,Home Win,1.38,0.59,1.46,0.28,1.42,0.43,0.99
+2024-25,Sunshine Stars,Kwara United,4,3,Home Win,1.38,0.59,1.59,0.59,1.49,0.59,0.89
+2024-25,Sunshine Stars,Lobi Stars,1,0,Home Win,1.38,0.59,1.64,0.58,1.51,0.58,0.92
+2024-25,Sunshine Stars,Nasarawa United,1,0,Home Win,1.38,0.59,1.55,0.67,1.46,0.63,0.83
+2024-25,Sunshine Stars,Niger Tornadoes,1,2,Away Win,1.38,0.59,1.49,0.63,1.44,0.61,0.83
+2024-25,Sunshine Stars,Plateau United,2,2,Draw,1.38,0.59,1.55,0.81,1.47,0.7,0.77
+2024-25,Sunshine Stars,Remo Stars,1,2,Away Win,1.38,0.59,1.38,0.75,1.38,0.67,0.71
+2024-25,Sunshine Stars,Rivers United,1,1,Draw,1.38,0.59,1.15,0.7,1.27,0.65,0.62
+2024-25,Sunshine Stars,Shooting Stars,0,1,Away Win,1.38,0.59,1.52,0.64,1.45,0.62,0.83
+2023-24,Abia Warriors,Akwa United,2,0,Home Win,1.51,0.49,1.35,0.56,1.43,0.53,0.9
+2023-24,Abia Warriors,Bayelsa United,1,0,Home Win,1.51,0.49,1.37,0.61,1.44,0.55,0.89
+2023-24,Abia Warriors,Bendel Insurance,0,0,Draw,1.51,0.49,1.11,0.61,1.31,0.55,0.76
+2023-24,Abia Warriors,Doma United,3,0,Home Win,1.51,0.49,1.64,0.46,1.57,0.48,1.1
+2023-24,Abia Warriors,Enugu Rangers,1,0,Home Win,1.51,0.49,1.12,0.68,1.31,0.58,0.73
+2023-24,Abia Warriors,Enyimba,0,1,Away Win,1.51,0.49,1.19,0.66,1.35,0.58,0.77
+2023-24,Abia Warriors,Gombe United,3,1,Home Win,1.51,0.49,2.0,0.34,1.75,0.42,1.34
+2023-24,Abia Warriors,Heartland,1,0,Home Win,1.51,0.49,1.6,0.51,1.55,0.5,1.05
+2023-24,Abia Warriors,Kano Pillars,1,0,Home Win,1.51,0.49,1.73,0.67,1.62,0.58,1.04
+2023-24,Abia Warriors,Katsina United,2,1,Home Win,1.51,0.49,1.46,0.28,1.48,0.39,1.1
+2023-24,Abia Warriors,Kwara United,1,0,Home Win,1.51,0.49,1.59,0.59,1.55,0.54,1.01
+2023-24,Abia Warriors,Lobi Stars,1,1,Draw,1.51,0.49,1.64,0.58,1.57,0.53,1.04
+2023-24,Abia Warriors,Niger Tornadoes,1,0,Home Win,1.51,0.49,1.49,0.63,1.5,0.56,0.94
+2023-24,Abia Warriors,Plateau United,1,0,Home Win,1.51,0.49,1.55,0.81,1.53,0.65,0.88
+2023-24,Abia Warriors,Remo Stars,0,0,Draw,1.51,0.49,1.38,0.75,1.45,0.62,0.82
+2023-24,Abia Warriors,Rivers United,2,0,Home Win,1.51,0.49,1.15,0.7,1.33,0.6,0.73
+2023-24,Abia Warriors,Shooting Stars,3,2,Home Win,1.51,0.49,1.52,0.64,1.51,0.57,0.95
+2023-24,Abia Warriors,Sporting Lagos,1,1,Draw,1.51,0.49,1.63,0.42,1.57,0.46,1.11
+2023-24,Abia Warriors,Sunshine Stars,0,0,Draw,1.51,0.49,1.42,0.45,1.47,0.47,0.99
+2023-24,Akwa United,Abia Warriors,3,1,Home Win,1.53,0.64,1.72,0.8,1.62,0.72,0.91
+2023-24,Akwa United,Bayelsa United,0,1,Away Win,1.53,0.64,1.37,0.61,1.45,0.62,0.83
+2023-24,Akwa United,Bendel Insurance,3,1,Home Win,1.53,0.64,1.11,0.61,1.32,0.62,0.7
+2023-24,Akwa United,Doma United,0,1,Away Win,1.53,0.64,1.64,0.46,1.59,0.55,1.04
+2023-24,Akwa United,Enugu Rangers,1,0,Home Win,1.53,0.64,1.12,0.68,1.33,0.66,0.67
+2023-24,Akwa United,Enyimba,3,1,Home Win,1.53,0.64,1.19,0.66,1.36,0.65,0.71
+2023-24,Akwa United,Gombe United,1,0,Home Win,1.53,0.64,2.0,0.34,1.77,0.49,1.28
+2023-24,Akwa United,Heartland,2,0,Home Win,1.53,0.64,1.6,0.51,1.56,0.57,0.99
+2023-24,Akwa United,Kano Pillars,3,0,Home Win,1.53,0.64,1.73,0.67,1.63,0.65,0.98
+2023-24,Akwa United,Katsina United,3,1,Home Win,1.53,0.64,1.46,0.28,1.5,0.46,1.04
+2023-24,Akwa United,Kwara United,1,1,Draw,1.53,0.64,1.59,0.59,1.56,0.62,0.95
+2023-24,Akwa United,Lobi Stars,1,0,Home Win,1.53,0.64,1.64,0.58,1.58,0.61,0.98
+2023-24,Akwa United,Niger Tornadoes,4,1,Home Win,1.53,0.64,1.49,0.63,1.51,0.63,0.88
+2023-24,Akwa United,Plateau United,0,0,Draw,1.53,0.64,1.55,0.81,1.54,0.72,0.82
+2023-24,Akwa United,Remo Stars,3,2,Home Win,1.53,0.64,1.38,0.75,1.46,0.69,0.76
+2023-24,Akwa United,Rivers United,3,1,Home Win,1.53,0.64,1.15,0.7,1.34,0.67,0.67
+2023-24,Akwa United,Shooting Stars,0,0,Draw,1.53,0.64,1.52,0.64,1.53,0.64,0.89
+2023-24,Akwa United,Sporting Lagos,0,0,Draw,1.53,0.64,1.63,0.42,1.58,0.53,1.05
+2023-24,Akwa United,Sunshine Stars,0,0,Draw,1.53,0.64,1.42,0.45,1.48,0.55,0.93
+2023-24,Bayelsa United,Abia Warriors,2,2,Draw,1.71,0.95,1.72,0.8,1.71,0.87,0.84
+2023-24,Bayelsa United,Akwa United,5,3,Home Win,1.71,0.95,1.35,0.56,1.53,0.75,0.78
+2023-24,Bayelsa United,Bendel Insurance,2,0,Home Win,1.71,0.95,1.11,0.61,1.41,0.78,0.63
+2023-24,Bayelsa United,Doma United,2,0,Home Win,1.71,0.95,1.64,0.46,1.68,0.7,0.97
+2023-24,Bayelsa United,Enugu Rangers,2,0,Home Win,1.71,0.95,1.12,0.68,1.42,0.81,0.6
+2023-24,Bayelsa United,Enyimba,1,2,Away Win,1.71,0.95,1.19,0.66,1.45,0.8,0.65
+2023-24,Bayelsa United,Gombe United,2,0,Home Win,1.71,0.95,2.0,0.34,1.85,0.64,1.21
+2023-24,Bayelsa United,Heartland,1,0,Home Win,1.71,0.95,1.6,0.51,1.65,0.73,0.93
+2023-24,Bayelsa United,Kano Pillars,2,1,Home Win,1.71,0.95,1.73,0.67,1.72,0.81,0.91
+2023-24,Bayelsa United,Katsina United,1,1,Draw,1.71,0.95,1.46,0.28,1.59,0.61,0.97
+2023-24,Bayelsa United,Kwara United,2,1,Home Win,1.71,0.95,1.59,0.59,1.65,0.77,0.88
+2023-24,Bayelsa United,Lobi Stars,1,2,Away Win,1.71,0.95,1.64,0.58,1.67,0.76,0.91
+2023-24,Bayelsa United,Niger Tornadoes,0,1,Away Win,1.71,0.95,1.49,0.63,1.6,0.79,0.81
+2023-24,Bayelsa United,Plateau United,3,2,Home Win,1.71,0.95,1.55,0.81,1.63,0.88,0.75
+2023-24,Bayelsa United,Remo Stars,1,2,Away Win,1.71,0.95,1.38,0.75,1.55,0.85,0.7
+2023-24,Bayelsa United,Rivers United,2,1,Home Win,1.71,0.95,1.15,0.7,1.43,0.82,0.61
+2023-24,Bayelsa United,Shooting Stars,2,1,Home Win,1.71,0.95,1.52,0.64,1.61,0.79,0.82
+2023-24,Bayelsa United,Sporting Lagos,2,2,Draw,1.71,0.95,1.63,0.42,1.67,0.68,0.99
+2023-24,Bayelsa United,Sunshine Stars,1,1,Draw,1.71,0.95,1.42,0.45,1.57,0.7,0.87
+2023-24,Bendel Insurance,Abia Warriors,1,0,Home Win,1.35,0.53,1.72,0.8,1.53,0.66,0.87
+2023-24,Bendel Insurance,Akwa United,0,0,Draw,1.35,0.53,1.35,0.56,1.35,0.54,0.8
+2023-24,Bendel Insurance,Bayelsa United,0,2,Away Win,1.35,0.53,1.37,0.61,1.36,0.57,0.79
+2023-24,Bendel Insurance,Doma United,4,0,Home Win,1.35,0.53,1.64,0.46,1.49,0.5,1.0
+2023-24,Bendel Insurance,Enugu Rangers,2,0,Home Win,1.35,0.53,1.12,0.68,1.23,0.6,0.63
+2023-24,Bendel Insurance,Enyimba,0,0,Draw,1.35,0.53,1.19,0.66,1.27,0.59,0.68
+2023-24,Bendel Insurance,Gombe United,2,0,Home Win,1.35,0.53,2.0,0.34,1.67,0.43,1.24
+2023-24,Bendel Insurance,Heartland,1,0,Home Win,1.35,0.53,1.6,0.51,1.47,0.52,0.95
+2023-24,Bendel Insurance,Kano Pillars,2,1,Home Win,1.35,0.53,1.73,0.67,1.54,0.6,0.94
+2023-24,Bendel Insurance,Katsina United,2,0,Home Win,1.35,0.53,1.46,0.28,1.4,0.4,1.0
+2023-24,Bendel Insurance,Kwara United,2,2,Draw,1.35,0.53,1.59,0.59,1.47,0.56,0.91
+2023-24,Bendel Insurance,Lobi Stars,1,0,Home Win,1.35,0.53,1.64,0.58,1.49,0.55,0.94
+2023-24,Bendel Insurance,Niger Tornadoes,1,3,Away Win,1.35,0.53,1.49,0.63,1.42,0.58,0.84
+2023-24,Bendel Insurance,Plateau United,1,0,Home Win,1.35,0.53,1.55,0.81,1.45,0.67,0.78
+2023-24,Bendel Insurance,Remo Stars,1,0,Home Win,1.35,0.53,1.38,0.75,1.36,0.64,0.72
+2023-24,Bendel Insurance,Rivers United,2,1,Home Win,1.35,0.53,1.15,0.7,1.25,0.62,0.63
+2023-24,Bendel Insurance,Shooting Stars,2,0,Home Win,1.35,0.53,1.52,0.64,1.43,0.59,0.85
+2023-24,Bendel Insurance,Sporting Lagos,3,1,Home Win,1.35,0.53,1.63,0.42,1.49,0.47,1.01
+2023-24,Bendel Insurance,Sunshine Stars,1,0,Home Win,1.35,0.53,1.42,0.45,1.38,0.49,0.89
+2023-24,Doma United,Abia Warriors,1,1,Draw,1.0,0.39,1.72,0.8,1.36,0.6,0.76
+2023-24,Doma United,Akwa United,1,0,Home Win,1.0,0.39,1.35,0.56,1.17,0.48,0.7
+2023-24,Doma United,Bayelsa United,2,0,Home Win,1.0,0.39,1.37,0.61,1.19,0.5,0.68
+2023-24,Doma United,Bendel Insurance,0,0,Draw,1.0,0.39,1.11,0.61,1.06,0.5,0.55
+2023-24,Doma United,Enugu Rangers,0,1,Away Win,1.0,0.39,1.12,0.68,1.06,0.53,0.53
+2023-24,Doma United,Enyimba,1,0,Home Win,1.0,0.39,1.19,0.66,1.1,0.53,0.57
+2023-24,Doma United,Gombe United,1,1,Draw,1.0,0.39,2.0,0.34,1.5,0.37,1.13
+2023-24,Doma United,Heartland,1,0,Home Win,1.0,0.39,1.6,0.51,1.3,0.45,0.85
+2023-24,Doma United,Kano Pillars,1,0,Home Win,1.0,0.39,1.73,0.67,1.37,0.53,0.83
+2023-24,Doma United,Katsina United,2,0,Home Win,1.0,0.39,1.46,0.28,1.23,0.33,0.9
+2023-24,Doma United,Kwara United,0,0,Draw,1.0,0.39,1.59,0.59,1.3,0.49,0.8
+2023-24,Doma United,Lobi Stars,1,0,Home Win,1.0,0.39,1.64,0.58,1.32,0.48,0.83
+2023-24,Doma United,Niger Tornadoes,1,0,Home Win,1.0,0.39,1.49,0.63,1.25,0.51,0.74
+2023-24,Doma United,Plateau United,1,0,Home Win,1.0,0.39,1.55,0.81,1.28,0.6,0.68
+2023-24,Doma United,Remo Stars,1,1,Draw,1.0,0.39,1.38,0.75,1.19,0.57,0.62
+2023-24,Doma United,Rivers United,1,1,Draw,1.0,0.39,1.15,0.7,1.08,0.55,0.53
+2023-24,Doma United,Shooting Stars,0,1,Away Win,1.0,0.39,1.52,0.64,1.26,0.52,0.74
+2023-24,Doma United,Sporting Lagos,0,0,Draw,1.0,0.39,1.63,0.42,1.32,0.41,0.91
+2023-24,Doma United,Sunshine Stars,0,1,Away Win,1.0,0.39,1.42,0.45,1.21,0.42,0.79
+2023-24,Enugu Rangers,Abia Warriors,3,2,Home Win,1.6,0.56,1.72,0.8,1.66,0.68,0.98
+2023-24,Enugu Rangers,Akwa United,1,0,Home Win,1.6,0.56,1.35,0.56,1.48,0.56,0.91
+2023-24,Enugu Rangers,Bayelsa United,3,0,Home Win,1.6,0.56,1.37,0.61,1.49,0.59,0.9
+2023-24,Enugu Rangers,Bendel Insurance,2,0,Home Win,1.6,0.56,1.11,0.61,1.36,0.59,0.77
+2023-24,Enugu Rangers,Doma United,2,1,Home Win,1.6,0.56,1.64,0.46,1.62,0.51,1.11
+2023-24,Enugu Rangers,Enyimba,3,0,Home Win,1.6,0.56,1.19,0.66,1.4,0.61,0.79
+2023-24,Enugu Rangers,Gombe United,4,1,Home Win,1.6,0.56,2.0,0.34,1.8,0.45,1.35
+2023-24,Enugu Rangers,Heartland,2,0,Home Win,1.6,0.56,1.6,0.51,1.6,0.54,1.06
+2023-24,Enugu Rangers,Kano Pillars,4,1,Home Win,1.6,0.56,1.73,0.67,1.67,0.62,1.05
+2023-24,Enugu Rangers,Katsina United,0,0,Draw,1.6,0.56,1.46,0.28,1.53,0.42,1.11
+2023-24,Enugu Rangers,Kwara United,0,0,Draw,1.6,0.56,1.59,0.59,1.6,0.58,1.02
+2023-24,Enugu Rangers,Lobi Stars,2,1,Home Win,1.6,0.56,1.64,0.58,1.62,0.57,1.05
+2023-24,Enugu Rangers,Niger Tornadoes,2,1,Home Win,1.6,0.56,1.49,0.63,1.55,0.6,0.95
+2023-24,Enugu Rangers,Plateau United,2,0,Home Win,1.6,0.56,1.55,0.81,1.58,0.69,0.89
+2023-24,Enugu Rangers,Remo Stars,1,0,Home Win,1.6,0.56,1.38,0.75,1.49,0.66,0.84
+2023-24,Enugu Rangers,Rivers United,1,0,Home Win,1.6,0.56,1.15,0.7,1.38,0.63,0.75
+2023-24,Enugu Rangers,Shooting Stars,2,0,Home Win,1.6,0.56,1.52,0.64,1.56,0.6,0.96
+2023-24,Enugu Rangers,Sporting Lagos,2,0,Home Win,1.6,0.56,1.63,0.42,1.62,0.49,1.13
+2023-24,Enugu Rangers,Sunshine Stars,2,0,Home Win,1.6,0.56,1.42,0.45,1.51,0.51,1.01
+2023-24,Enyimba,Abia Warriors,2,1,Home Win,1.55,0.57,1.72,0.8,1.64,0.68,0.95
+2023-24,Enyimba,Akwa United,3,2,Home Win,1.55,0.57,1.35,0.56,1.45,0.56,0.89
+2023-24,Enyimba,Bayelsa United,1,1,Draw,1.55,0.57,1.37,0.61,1.46,0.59,0.87
+2023-24,Enyimba,Bendel Insurance,2,1,Home Win,1.55,0.57,1.11,0.61,1.33,0.59,0.74
+2023-24,Enyimba,Doma United,0,0,Draw,1.55,0.57,1.64,0.46,1.6,0.52,1.08
+2023-24,Enyimba,Enugu Rangers,1,1,Draw,1.55,0.57,1.12,0.68,1.34,0.62,0.72
+2023-24,Enyimba,Gombe United,4,0,Home Win,1.55,0.57,2.0,0.34,1.78,0.45,1.32
+2023-24,Enyimba,Heartland,1,0,Home Win,1.55,0.57,1.6,0.51,1.58,0.54,1.04
+2023-24,Enyimba,Kano Pillars,5,0,Home Win,1.55,0.57,1.73,0.67,1.64,0.62,1.02
+2023-24,Enyimba,Katsina United,1,0,Home Win,1.55,0.57,1.46,0.28,1.51,0.42,1.09
+2023-24,Enyimba,Kwara United,1,0,Home Win,1.55,0.57,1.59,0.59,1.57,0.58,0.99
+2023-24,Enyimba,Lobi Stars,1,0,Home Win,1.55,0.57,1.64,0.58,1.6,0.57,1.02
+2023-24,Enyimba,Niger Tornadoes,3,1,Home Win,1.55,0.57,1.49,0.63,1.52,0.6,0.92
+2023-24,Enyimba,Plateau United,2,0,Home Win,1.55,0.57,1.55,0.81,1.55,0.69,0.86
+2023-24,Enyimba,Remo Stars,0,1,Away Win,1.55,0.57,1.38,0.75,1.47,0.66,0.81
+2023-24,Enyimba,Rivers United,4,1,Home Win,1.55,0.57,1.15,0.7,1.35,0.64,0.72
+2023-24,Enyimba,Shooting Stars,1,0,Home Win,1.55,0.57,1.52,0.64,1.54,0.61,0.93
+2023-24,Enyimba,Sporting Lagos,2,0,Home Win,1.55,0.57,1.63,0.42,1.59,0.49,1.1
+2023-24,Enyimba,Sunshine Stars,1,0,Home Win,1.55,0.57,1.42,0.45,1.49,0.51,0.98
+2023-24,Gombe United,Abia Warriors,1,3,Away Win,1.28,0.87,1.72,0.8,1.5,0.83,0.66
+2023-24,Gombe United,Akwa United,1,1,Draw,1.28,0.87,1.35,0.56,1.31,0.72,0.6
+2023-24,Gombe United,Bayelsa United,1,1,Draw,1.28,0.87,1.37,0.61,1.32,0.74,0.58
+2023-24,Gombe United,Bendel Insurance,1,0,Home Win,1.28,0.87,1.11,0.61,1.19,0.74,0.45
+2023-24,Gombe United,Doma United,0,3,Away Win,1.28,0.87,1.64,0.46,1.46,0.67,0.79
+2023-24,Gombe United,Enugu Rangers,1,2,Away Win,1.28,0.87,1.12,0.68,1.2,0.77,0.43
+2023-24,Gombe United,Enyimba,2,0,Home Win,1.28,0.87,1.19,0.66,1.23,0.76,0.47
+2023-24,Gombe United,Heartland,2,0,Home Win,1.28,0.87,1.6,0.51,1.44,0.69,0.75
+2023-24,Gombe United,Kano Pillars,2,5,Away Win,1.28,0.87,1.73,0.67,1.51,0.77,0.73
+2023-24,Gombe United,Katsina United,1,0,Home Win,1.28,0.87,1.46,0.28,1.37,0.57,0.79
+2023-24,Gombe United,Kwara United,1,2,Away Win,1.28,0.87,1.59,0.59,1.44,0.73,0.7
+2023-24,Gombe United,Lobi Stars,3,2,Home Win,1.28,0.87,1.64,0.58,1.46,0.72,0.73
+2023-24,Gombe United,Niger Tornadoes,1,0,Home Win,1.28,0.87,1.49,0.63,1.38,0.75,0.63
+2023-24,Gombe United,Plateau United,1,0,Home Win,1.28,0.87,1.55,0.81,1.42,0.84,0.57
+2023-24,Gombe United,Remo Stars,0,0,Draw,1.28,0.87,1.38,0.75,1.33,0.81,0.52
+2023-24,Gombe United,Rivers United,1,1,Draw,1.28,0.87,1.15,0.7,1.22,0.79,0.43
+2023-24,Gombe United,Shooting Stars,1,1,Draw,1.28,0.87,1.52,0.64,1.4,0.76,0.64
+2023-24,Gombe United,Sporting Lagos,2,0,Home Win,1.28,0.87,1.63,0.42,1.45,0.65,0.81
+2023-24,Gombe United,Sunshine Stars,0,2,Away Win,1.28,0.87,1.42,0.45,1.35,0.66,0.69
+2023-24,Heartland,Abia Warriors,2,0,Home Win,1.26,0.72,1.72,0.8,1.49,0.76,0.73
+2023-24,Heartland,Akwa United,1,0,Home Win,1.26,0.72,1.35,0.56,1.31,0.64,0.67
+2023-24,Heartland,Bayelsa United,2,2,Draw,1.26,0.72,1.37,0.61,1.32,0.67,0.65
+2023-24,Heartland,Bendel Insurance,1,0,Home Win,1.26,0.72,1.11,0.61,1.19,0.67,0.52
+2023-24,Heartland,Doma United,3,1,Home Win,1.26,0.72,1.64,0.46,1.45,0.59,0.86
+2023-24,Heartland,Enugu Rangers,1,2,Away Win,1.26,0.72,1.12,0.68,1.19,0.7,0.49
+2023-24,Heartland,Enyimba,0,1,Away Win,1.26,0.72,1.19,0.66,1.23,0.69,0.54
+2023-24,Heartland,Gombe United,3,0,Home Win,1.26,0.72,2.0,0.34,1.63,0.53,1.1
+2023-24,Heartland,Kano Pillars,1,1,Draw,1.26,0.72,1.73,0.67,1.5,0.7,0.8
+2023-24,Heartland,Katsina United,1,1,Draw,1.26,0.72,1.46,0.28,1.36,0.5,0.86
+2023-24,Heartland,Kwara United,1,1,Draw,1.26,0.72,1.59,0.59,1.43,0.66,0.77
+2023-24,Heartland,Lobi Stars,2,2,Draw,1.26,0.72,1.64,0.58,1.45,0.65,0.8
+2023-24,Heartland,Niger Tornadoes,1,0,Home Win,1.26,0.72,1.49,0.63,1.38,0.67,0.7
+2023-24,Heartland,Plateau United,1,5,Away Win,1.26,0.72,1.55,0.81,1.41,0.77,0.64
+2023-24,Heartland,Remo Stars,3,1,Home Win,1.26,0.72,1.38,0.75,1.32,0.74,0.59
+2023-24,Heartland,Rivers United,1,1,Draw,1.26,0.72,1.15,0.7,1.21,0.71,0.5
+2023-24,Heartland,Shooting Stars,1,0,Home Win,1.26,0.72,1.52,0.64,1.39,0.68,0.71
+2023-24,Heartland,Sporting Lagos,3,1,Home Win,1.26,0.72,1.63,0.42,1.45,0.57,0.88
+2023-24,Heartland,Sunshine Stars,1,1,Draw,1.26,0.72,1.42,0.45,1.34,0.59,0.76
+2023-24,Kano Pillars,Abia Warriors,0,1,Away Win,1.44,0.58,1.72,0.8,1.58,0.69,0.89
+2023-24,Kano Pillars,Akwa United,1,0,Home Win,1.44,0.58,1.35,0.56,1.39,0.57,0.82
+2023-24,Kano Pillars,Bayelsa United,3,0,Home Win,1.44,0.58,1.37,0.61,1.4,0.59,0.81
+2023-24,Kano Pillars,Bendel Insurance,0,0,Draw,1.44,0.58,1.11,0.61,1.27,0.59,0.68
+2023-24,Kano Pillars,Doma United,3,1,Home Win,1.44,0.58,1.64,0.46,1.54,0.52,1.02
+2023-24,Kano Pillars,Enugu Rangers,1,1,Draw,1.44,0.58,1.12,0.68,1.28,0.63,0.65
+2023-24,Kano Pillars,Enyimba,1,0,Home Win,1.44,0.58,1.19,0.66,1.31,0.62,0.7
+2023-24,Kano Pillars,Gombe United,4,0,Home Win,1.44,0.58,2.0,0.34,1.72,0.46,1.26
+2023-24,Kano Pillars,Heartland,2,1,Home Win,1.44,0.58,1.6,0.51,1.52,0.54,0.97
+2023-24,Kano Pillars,Katsina United,1,0,Home Win,1.44,0.58,1.46,0.28,1.45,0.43,1.02
+2023-24,Kano Pillars,Kwara United,2,1,Home Win,1.44,0.58,1.59,0.59,1.52,0.59,0.93
+2023-24,Kano Pillars,Lobi Stars,3,2,Home Win,1.44,0.58,1.64,0.58,1.54,0.58,0.96
+2023-24,Kano Pillars,Niger Tornadoes,1,1,Draw,1.44,0.58,1.49,0.63,1.47,0.6,0.86
+2023-24,Kano Pillars,Plateau United,2,1,Home Win,1.44,0.58,1.55,0.81,1.5,0.69,0.8
+2023-24,Kano Pillars,Remo Stars,2,1,Home Win,1.44,0.58,1.38,0.75,1.41,0.67,0.74
+2023-24,Kano Pillars,Rivers United,1,0,Home Win,1.44,0.58,1.15,0.7,1.3,0.64,0.66
+2023-24,Kano Pillars,Shooting Stars,1,2,Away Win,1.44,0.58,1.52,0.64,1.48,0.61,0.87
+2023-24,Kano Pillars,Sporting Lagos,1,0,Home Win,1.44,0.58,1.63,0.42,1.53,0.5,1.03
+2023-24,Kano Pillars,Sunshine Stars,5,1,Home Win,1.44,0.58,1.42,0.45,1.43,0.52,0.91
+2023-24,Katsina United,Abia Warriors,2,1,Home Win,1.59,0.58,1.72,0.8,1.65,0.69,0.97
+2023-24,Katsina United,Akwa United,1,0,Home Win,1.59,0.58,1.35,0.56,1.47,0.57,0.9
+2023-24,Katsina United,Bayelsa United,1,1,Draw,1.59,0.58,1.37,0.61,1.48,0.59,0.89
+2023-24,Katsina United,Bendel Insurance,1,0,Home Win,1.59,0.58,1.11,0.61,1.35,0.59,0.76
+2023-24,Katsina United,Doma United,2,0,Home Win,1.59,0.58,1.64,0.46,1.62,0.52,1.1
+2023-24,Katsina United,Enugu Rangers,4,3,Home Win,1.59,0.58,1.12,0.68,1.36,0.63,0.73
+2023-24,Katsina United,Enyimba,2,1,Home Win,1.59,0.58,1.19,0.66,1.39,0.62,0.77
+2023-24,Katsina United,Gombe United,4,0,Home Win,1.59,0.58,2.0,0.34,1.8,0.46,1.34
+2023-24,Katsina United,Heartland,1,1,Draw,1.59,0.58,1.6,0.51,1.6,0.54,1.05
+2023-24,Katsina United,Kano Pillars,3,2,Home Win,1.59,0.58,1.73,0.67,1.66,0.62,1.04
+2023-24,Katsina United,Kwara United,1,0,Home Win,1.59,0.58,1.59,0.59,1.59,0.59,1.01
+2023-24,Katsina United,Lobi Stars,0,0,Draw,1.59,0.58,1.64,0.58,1.62,0.58,1.04
+2023-24,Katsina United,Niger Tornadoes,1,0,Home Win,1.59,0.58,1.49,0.63,1.54,0.6,0.94
+2023-24,Katsina United,Plateau United,2,1,Home Win,1.59,0.58,1.55,0.81,1.57,0.69,0.88
+2023-24,Katsina United,Remo Stars,2,0,Home Win,1.59,0.58,1.38,0.75,1.49,0.67,0.82
+2023-24,Katsina United,Rivers United,1,0,Home Win,1.59,0.58,1.15,0.7,1.37,0.64,0.73
+2023-24,Katsina United,Shooting Stars,2,2,Draw,1.59,0.58,1.52,0.64,1.56,0.61,0.95
+2023-24,Katsina United,Sporting Lagos,2,0,Home Win,1.59,0.58,1.63,0.42,1.61,0.5,1.11
+2023-24,Katsina United,Sunshine Stars,3,2,Home Win,1.59,0.58,1.42,0.45,1.51,0.52,0.99
+2023-24,Kwara United,Abia Warriors,1,0,Home Win,1.36,0.47,1.72,0.8,1.54,0.63,0.9
+2023-24,Kwara United,Akwa United,1,0,Home Win,1.36,0.47,1.35,0.56,1.35,0.51,0.84
+2023-24,Kwara United,Bayelsa United,1,0,Home Win,1.36,0.47,1.37,0.61,1.36,0.54,0.82
+2023-24,Kwara United,Bendel Insurance,1,1,Draw,1.36,0.47,1.11,0.61,1.23,0.54,0.7
+2023-24,Kwara United,Doma United,0,0,Draw,1.36,0.47,1.64,0.46,1.5,0.47,1.03
+2023-24,Kwara United,Enugu Rangers,1,1,Draw,1.36,0.47,1.12,0.68,1.24,0.57,0.67
+2023-24,Kwara United,Enyimba,2,1,Home Win,1.36,0.47,1.19,0.66,1.27,0.56,0.71
+2023-24,Kwara United,Gombe United,2,0,Home Win,1.36,0.47,2.0,0.34,1.68,0.4,1.27
+2023-24,Kwara United,Heartland,4,0,Home Win,1.36,0.47,1.6,0.51,1.48,0.49,0.99
+2023-24,Kwara United,Kano Pillars,2,0,Home Win,1.36,0.47,1.73,0.67,1.55,0.57,0.98
+2023-24,Kwara United,Katsina United,1,1,Draw,1.36,0.47,1.46,0.28,1.41,0.37,1.04
+2023-24,Kwara United,Lobi Stars,0,2,Away Win,1.36,0.47,1.64,0.58,1.5,0.52,0.98
+2023-24,Kwara United,Niger Tornadoes,0,0,Draw,1.36,0.47,1.49,0.63,1.42,0.55,0.88
+2023-24,Kwara United,Plateau United,2,1,Home Win,1.36,0.47,1.55,0.81,1.46,0.64,0.82
+2023-24,Kwara United,Remo Stars,3,2,Home Win,1.36,0.47,1.38,0.75,1.37,0.61,0.76
+2023-24,Kwara United,Rivers United,0,0,Draw,1.36,0.47,1.15,0.7,1.26,0.58,0.67
+2023-24,Kwara United,Shooting Stars,1,1,Draw,1.36,0.47,1.52,0.64,1.44,0.55,0.88
+2023-24,Kwara United,Sporting Lagos,2,1,Home Win,1.36,0.47,1.63,0.42,1.49,0.44,1.05
+2023-24,Kwara United,Sunshine Stars,1,0,Home Win,1.36,0.47,1.42,0.45,1.39,0.46,0.93
+2023-24,Lobi Stars,Abia Warriors,2,0,Home Win,1.45,0.89,1.72,0.8,1.59,0.85,0.74
+2023-24,Lobi Stars,Akwa United,1,2,Away Win,1.45,0.89,1.35,0.56,1.4,0.73,0.67
+2023-24,Lobi Stars,Bayelsa United,1,1,Draw,1.45,0.89,1.37,0.61,1.41,0.75,0.66
+2023-24,Lobi Stars,Bendel Insurance,0,0,Draw,1.45,0.89,1.11,0.61,1.28,0.75,0.53
+2023-24,Lobi Stars,Doma United,2,1,Home Win,1.45,0.89,1.64,0.46,1.55,0.68,0.87
+2023-24,Lobi Stars,Enugu Rangers,2,1,Home Win,1.45,0.89,1.12,0.68,1.29,0.78,0.5
+2023-24,Lobi Stars,Enyimba,1,0,Home Win,1.45,0.89,1.19,0.66,1.32,0.78,0.55
+2023-24,Lobi Stars,Gombe United,1,0,Home Win,1.45,0.89,2.0,0.34,1.73,0.62,1.11
+2023-24,Lobi Stars,Heartland,1,0,Home Win,1.45,0.89,1.6,0.51,1.53,0.7,0.82
+2023-24,Lobi Stars,Kano Pillars,1,1,Draw,1.45,0.89,1.73,0.67,1.59,0.78,0.81
+2023-24,Lobi Stars,Katsina United,2,0,Home Win,1.45,0.89,1.46,0.28,1.46,0.59,0.87
+2023-24,Lobi Stars,Kwara United,4,3,Home Win,1.45,0.89,1.59,0.59,1.52,0.74,0.78
+2023-24,Lobi Stars,Niger Tornadoes,1,0,Home Win,1.45,0.89,1.49,0.63,1.47,0.76,0.71
+2023-24,Lobi Stars,Plateau United,2,1,Home Win,1.45,0.89,1.55,0.81,1.5,0.85,0.65
+2023-24,Lobi Stars,Remo Stars,3,2,Home Win,1.45,0.89,1.38,0.75,1.42,0.82,0.6
+2023-24,Lobi Stars,Rivers United,3,2,Home Win,1.45,0.89,1.15,0.7,1.3,0.8,0.51
+2023-24,Lobi Stars,Shooting Stars,2,1,Home Win,1.45,0.89,1.52,0.64,1.49,0.77,0.72
+2023-24,Lobi Stars,Sporting Lagos,1,0,Home Win,1.45,0.89,1.63,0.42,1.54,0.66,0.89
+2023-24,Lobi Stars,Sunshine Stars,3,2,Home Win,1.45,0.89,1.42,0.45,1.44,0.67,0.77
+2023-24,Niger Tornadoes,Abia Warriors,1,0,Home Win,1.32,0.58,1.72,0.8,1.52,0.69,0.83
+2023-24,Niger Tornadoes,Akwa United,1,0,Home Win,1.32,0.58,1.35,0.56,1.34,0.57,0.77
+2023-24,Niger Tornadoes,Bayelsa United,1,0,Home Win,1.32,0.58,1.37,0.61,1.35,0.6,0.75
+2023-24,Niger Tornadoes,Bendel Insurance,0,0,Draw,1.32,0.58,1.11,0.61,1.22,0.6,0.62
+2023-24,Niger Tornadoes,Doma United,2,0,Home Win,1.32,0.58,1.64,0.46,1.48,0.52,0.96
+2023-24,Niger Tornadoes,Enugu Rangers,0,2,Away Win,1.32,0.58,1.12,0.68,1.22,0.63,0.59
+2023-24,Niger Tornadoes,Enyimba,0,0,Draw,1.32,0.58,1.19,0.66,1.26,0.62,0.64
+2023-24,Niger Tornadoes,Gombe United,5,0,Home Win,1.32,0.58,2.0,0.34,1.66,0.46,1.2
+2023-24,Niger Tornadoes,Heartland,3,2,Home Win,1.32,0.58,1.6,0.51,1.46,0.54,0.92
+2023-24,Niger Tornadoes,Kano Pillars,1,0,Home Win,1.32,0.58,1.73,0.67,1.53,0.63,0.9
+2023-24,Niger Tornadoes,Katsina United,0,0,Draw,1.32,0.58,1.46,0.28,1.39,0.43,0.96
+2023-24,Niger Tornadoes,Kwara United,1,1,Draw,1.32,0.58,1.59,0.59,1.46,0.59,0.87
+2023-24,Niger Tornadoes,Lobi Stars,3,2,Home Win,1.32,0.58,1.64,0.58,1.48,0.58,0.9
+2023-24,Niger Tornadoes,Plateau United,2,3,Away Win,1.32,0.58,1.55,0.81,1.44,0.7,0.74
+2023-24,Niger Tornadoes,Remo Stars,0,0,Draw,1.32,0.58,1.38,0.75,1.35,0.67,0.69
+2023-24,Niger Tornadoes,Rivers United,1,0,Home Win,1.32,0.58,1.15,0.7,1.24,0.64,0.6
+2023-24,Niger Tornadoes,Shooting Stars,2,1,Home Win,1.32,0.58,1.52,0.64,1.42,0.61,0.81
+2023-24,Niger Tornadoes,Sporting Lagos,1,0,Home Win,1.32,0.58,1.63,0.42,1.48,0.5,0.98
+2023-24,Niger Tornadoes,Sunshine Stars,2,1,Home Win,1.32,0.58,1.42,0.45,1.37,0.52,0.86
+2023-24,Plateau United,Abia Warriors,3,1,Home Win,1.78,0.49,1.72,0.8,1.75,0.64,1.11
+2023-24,Plateau United,Akwa United,1,2,Away Win,1.78,0.49,1.35,0.56,1.56,0.52,1.04
+2023-24,Plateau United,Bayelsa United,5,1,Home Win,1.78,0.49,1.37,0.61,1.57,0.55,1.03
+2023-24,Plateau United,Bendel Insurance,2,0,Home Win,1.78,0.49,1.11,0.61,1.44,0.55,0.9
+2023-24,Plateau United,Doma United,4,0,Home Win,1.78,0.49,1.64,0.46,1.71,0.48,1.24
+2023-24,Plateau United,Enugu Rangers,2,1,Home Win,1.78,0.49,1.12,0.68,1.45,0.58,0.87
+2023-24,Plateau United,Enyimba,1,0,Home Win,1.78,0.49,1.19,0.66,1.48,0.57,0.91
+2023-24,Plateau United,Gombe United,4,0,Home Win,1.78,0.49,2.0,0.34,1.89,0.41,1.48
+2023-24,Plateau United,Heartland,1,0,Home Win,1.78,0.49,1.6,0.51,1.69,0.5,1.19
+2023-24,Plateau United,Kano Pillars,1,1,Draw,1.78,0.49,1.73,0.67,1.76,0.58,1.18
+2023-24,Plateau United,Katsina United,1,0,Home Win,1.78,0.49,1.46,0.28,1.62,0.38,1.24
+2023-24,Plateau United,Kwara United,2,0,Home Win,1.78,0.49,1.59,0.59,1.69,0.54,1.15
+2023-24,Plateau United,Lobi Stars,2,1,Home Win,1.78,0.49,1.64,0.58,1.71,0.53,1.18
+2023-24,Plateau United,Niger Tornadoes,0,0,Draw,1.78,0.49,1.49,0.63,1.64,0.56,1.08
+2023-24,Plateau United,Remo Stars,1,0,Home Win,1.78,0.49,1.38,0.75,1.58,0.62,0.96
+2023-24,Plateau United,Rivers United,3,2,Home Win,1.78,0.49,1.15,0.7,1.47,0.6,0.87
+2023-24,Plateau United,Shooting Stars,0,0,Draw,1.78,0.49,1.52,0.64,1.65,0.56,1.08
+2023-24,Plateau United,Sporting Lagos,1,0,Home Win,1.78,0.49,1.63,0.42,1.7,0.45,1.25
+2023-24,Plateau United,Sunshine Stars,1,0,Home Win,1.78,0.49,1.42,0.45,1.6,0.47,1.13
+2023-24,Remo Stars,Abia Warriors,2,1,Home Win,1.71,0.36,1.72,0.8,1.71,0.58,1.14
+2023-24,Remo Stars,Akwa United,2,1,Home Win,1.71,0.36,1.35,0.56,1.53,0.46,1.07
+2023-24,Remo Stars,Bayelsa United,1,0,Home Win,1.71,0.36,1.37,0.61,1.54,0.48,1.06
+2023-24,Remo Stars,Bendel Insurance,2,0,Home Win,1.71,0.36,1.11,0.61,1.41,0.48,0.93
+2023-24,Remo Stars,Doma United,0,0,Draw,1.71,0.36,1.64,0.46,1.68,0.41,1.27
+2023-24,Remo Stars,Enugu Rangers,2,1,Home Win,1.71,0.36,1.12,0.68,1.42,0.52,0.9
+2023-24,Remo Stars,Enyimba,1,0,Home Win,1.71,0.36,1.19,0.66,1.45,0.51,0.95
+2023-24,Remo Stars,Gombe United,4,0,Home Win,1.71,0.36,2.0,0.34,1.86,0.35,1.51
+2023-24,Remo Stars,Heartland,4,1,Home Win,1.71,0.36,1.6,0.51,1.65,0.43,1.22
+2023-24,Remo Stars,Kano Pillars,2,1,Home Win,1.71,0.36,1.73,0.67,1.72,0.51,1.21
+2023-24,Remo Stars,Katsina United,2,1,Home Win,1.71,0.36,1.46,0.28,1.59,0.32,1.27
+2023-24,Remo Stars,Kwara United,2,0,Home Win,1.71,0.36,1.59,0.59,1.65,0.48,1.18
+2023-24,Remo Stars,Lobi Stars,2,0,Home Win,1.71,0.36,1.64,0.58,1.67,0.47,1.21
+2023-24,Remo Stars,Niger Tornadoes,3,0,Home Win,1.71,0.36,1.49,0.63,1.6,0.49,1.11
+2023-24,Remo Stars,Plateau United,1,0,Home Win,1.71,0.36,1.55,0.81,1.63,0.58,1.05
+2023-24,Remo Stars,Rivers United,2,1,Home Win,1.71,0.36,1.15,0.7,1.43,0.53,0.9
+2023-24,Remo Stars,Shooting Stars,3,0,Home Win,1.71,0.36,1.52,0.64,1.62,0.5,1.12
+2023-24,Remo Stars,Sporting Lagos,2,1,Home Win,1.71,0.36,1.63,0.42,1.67,0.39,1.28
+2023-24,Remo Stars,Sunshine Stars,2,0,Home Win,1.71,0.36,1.42,0.45,1.57,0.41,1.16
+2023-24,Rivers United,Abia Warriors,2,1,Home Win,1.74,0.44,1.72,0.8,1.73,0.62,1.11
+2023-24,Rivers United,Akwa United,2,1,Home Win,1.74,0.44,1.35,0.56,1.54,0.5,1.04
+2023-24,Rivers United,Bayelsa United,2,0,Home Win,1.74,0.44,1.37,0.61,1.56,0.52,1.03
+2023-24,Rivers United,Bendel Insurance,1,1,Draw,1.74,0.44,1.11,0.61,1.43,0.52,0.9
+2023-24,Rivers United,Doma United,3,2,Home Win,1.74,0.44,1.64,0.46,1.69,0.45,1.24
+2023-24,Rivers United,Enugu Rangers,2,0,Home Win,1.74,0.44,1.12,0.68,1.43,0.56,0.87
+2023-24,Rivers United,Enyimba,2,0,Home Win,1.74,0.44,1.19,0.66,1.47,0.55,0.92
+2023-24,Rivers United,Gombe United,6,0,Home Win,1.74,0.44,2.0,0.34,1.87,0.39,1.48
+2023-24,Rivers United,Heartland,1,0,Home Win,1.74,0.44,1.6,0.51,1.67,0.47,1.19
+2023-24,Rivers United,Kano Pillars,1,1,Draw,1.74,0.44,1.73,0.67,1.74,0.56,1.18
+2023-24,Rivers United,Katsina United,2,0,Home Win,1.74,0.44,1.46,0.28,1.6,0.36,1.24
+2023-24,Rivers United,Kwara United,0,0,Draw,1.74,0.44,1.59,0.59,1.67,0.52,1.15
+2023-24,Rivers United,Lobi Stars,1,0,Home Win,1.74,0.44,1.64,0.58,1.69,0.51,1.18
+2023-24,Rivers United,Niger Tornadoes,3,2,Home Win,1.74,0.44,1.49,0.63,1.62,0.53,1.08
+2023-24,Rivers United,Plateau United,3,1,Home Win,1.74,0.44,1.55,0.81,1.65,0.62,1.02
+2023-24,Rivers United,Remo Stars,2,0,Home Win,1.74,0.44,1.38,0.75,1.56,0.6,0.97
+2023-24,Rivers United,Shooting Stars,1,0,Home Win,1.74,0.44,1.52,0.64,1.63,0.54,1.09
+2023-24,Rivers United,Sporting Lagos,4,1,Home Win,1.74,0.44,1.63,0.42,1.69,0.43,1.26
+2023-24,Rivers United,Sunshine Stars,1,1,Draw,1.74,0.44,1.42,0.45,1.58,0.45,1.14
+2023-24,Shooting Stars,Abia Warriors,4,0,Home Win,1.52,0.51,1.72,0.8,1.62,0.65,0.97
+2023-24,Shooting Stars,Akwa United,3,0,Home Win,1.52,0.51,1.35,0.56,1.43,0.53,0.9
+2023-24,Shooting Stars,Bayelsa United,1,0,Home Win,1.52,0.51,1.37,0.61,1.45,0.56,0.89
+2023-24,Shooting Stars,Bendel Insurance,1,0,Home Win,1.52,0.51,1.11,0.61,1.32,0.56,0.76
+2023-24,Shooting Stars,Doma United,3,1,Home Win,1.52,0.51,1.64,0.46,1.58,0.49,1.1
+2023-24,Shooting Stars,Enugu Rangers,1,0,Home Win,1.52,0.51,1.12,0.68,1.32,0.59,0.73
+2023-24,Shooting Stars,Enyimba,1,2,Away Win,1.52,0.51,1.19,0.66,1.36,0.58,0.77
+2023-24,Shooting Stars,Gombe United,2,1,Home Win,1.52,0.51,2.0,0.34,1.76,0.42,1.34
+2023-24,Shooting Stars,Heartland,0,0,Draw,1.52,0.51,1.6,0.51,1.56,0.51,1.05
+2023-24,Shooting Stars,Kano Pillars,1,0,Home Win,1.52,0.51,1.73,0.67,1.63,0.59,1.04
+2023-24,Shooting Stars,Katsina United,1,1,Draw,1.52,0.51,1.46,0.28,1.49,0.39,1.1
+2023-24,Shooting Stars,Kwara United,2,0,Home Win,1.52,0.51,1.59,0.59,1.56,0.55,1.01
+2023-24,Shooting Stars,Lobi Stars,2,0,Home Win,1.52,0.51,1.64,0.58,1.58,0.54,1.04
+2023-24,Shooting Stars,Niger Tornadoes,4,1,Home Win,1.52,0.51,1.49,0.63,1.51,0.57,0.94
+2023-24,Shooting Stars,Plateau United,2,1,Home Win,1.52,0.51,1.55,0.81,1.54,0.66,0.88
+2023-24,Shooting Stars,Remo Stars,2,0,Home Win,1.52,0.51,1.38,0.75,1.45,0.63,0.82
+2023-24,Shooting Stars,Rivers United,1,0,Home Win,1.52,0.51,1.15,0.7,1.34,0.61,0.73
+2023-24,Shooting Stars,Sporting Lagos,1,0,Home Win,1.52,0.51,1.63,0.42,1.58,0.46,1.11
+2023-24,Shooting Stars,Sunshine Stars,2,0,Home Win,1.52,0.51,1.42,0.45,1.47,0.48,0.99
+2023-24,Sporting Lagos,Abia Warriors,4,2,Home Win,1.63,0.68,1.72,0.8,1.67,0.74,0.93
+2023-24,Sporting Lagos,Akwa United,2,1,Home Win,1.63,0.68,1.35,0.56,1.49,0.62,0.87
+2023-24,Sporting Lagos,Bayelsa United,1,1,Draw,1.63,0.68,1.37,0.61,1.5,0.65,0.85
+2023-24,Sporting Lagos,Bendel Insurance,1,0,Home Win,1.63,0.68,1.11,0.61,1.37,0.65,0.72
+2023-24,Sporting Lagos,Doma United,0,0,Draw,1.63,0.68,1.64,0.46,1.64,0.57,1.06
+2023-24,Sporting Lagos,Enugu Rangers,0,0,Draw,1.63,0.68,1.12,0.68,1.38,0.68,0.7
+2023-24,Sporting Lagos,Enyimba,2,1,Home Win,1.63,0.68,1.19,0.66,1.41,0.67,0.74
+2023-24,Sporting Lagos,Gombe United,2,0,Home Win,1.63,0.68,2.0,0.34,1.82,0.51,1.3
+2023-24,Sporting Lagos,Heartland,1,1,Draw,1.63,0.68,1.6,0.51,1.61,0.6,1.02
+2023-24,Sporting Lagos,Kano Pillars,3,0,Home Win,1.63,0.68,1.73,0.67,1.68,0.68,1.0
+2023-24,Sporting Lagos,Katsina United,1,0,Home Win,1.63,0.68,1.46,0.28,1.55,0.48,1.07
+2023-24,Sporting Lagos,Kwara United,2,0,Home Win,1.63,0.68,1.59,0.59,1.61,0.64,0.97
+2023-24,Sporting Lagos,Lobi Stars,1,1,Draw,1.63,0.68,1.64,0.58,1.63,0.63,1.0
+2023-24,Sporting Lagos,Niger Tornadoes,2,1,Home Win,1.63,0.68,1.49,0.63,1.56,0.66,0.91
+2023-24,Sporting Lagos,Plateau United,1,2,Away Win,1.63,0.68,1.55,0.81,1.59,0.75,0.85
+2023-24,Sporting Lagos,Remo Stars,4,1,Home Win,1.63,0.68,1.38,0.75,1.51,0.72,0.79
+2023-24,Sporting Lagos,Rivers United,1,0,Home Win,1.63,0.68,1.15,0.7,1.39,0.69,0.7
+2023-24,Sporting Lagos,Shooting Stars,2,2,Draw,1.63,0.68,1.52,0.64,1.58,0.66,0.91
+2023-24,Sporting Lagos,Sunshine Stars,1,0,Home Win,1.63,0.68,1.42,0.45,1.53,0.57,0.96
+2023-24,Sunshine Stars,Abia Warriors,2,1,Home Win,1.38,0.59,1.72,0.8,1.55,0.69,0.85
+2023-24,Sunshine Stars,Akwa United,2,0,Home Win,1.38,0.59,1.35,0.56,1.36,0.58,0.79
+2023-24,Sunshine Stars,Bayelsa United,1,1,Draw,1.38,0.59,1.37,0.61,1.37,0.6,0.77
+2023-24,Sunshine Stars,Bendel Insurance,0,0,Draw,1.38,0.59,1.11,0.61,1.24,0.6,0.64
+2023-24,Sunshine Stars,Doma United,2,0,Home Win,1.38,0.59,1.64,0.46,1.51,0.53,0.98
+2023-24,Sunshine Stars,Enugu Rangers,2,2,Draw,1.38,0.59,1.12,0.68,1.25,0.63,0.62
+2023-24,Sunshine Stars,Enyimba,1,1,Draw,1.38,0.59,1.19,0.66,1.29,0.62,0.66
+2023-24,Sunshine Stars,Gombe United,1,1,Draw,1.38,0.59,2.0,0.34,1.69,0.47,1.22
+2023-24,Sunshine Stars,Heartland,1,1,Draw,1.38,0.59,1.6,0.51,1.49,0.55,0.94
+2023-24,Sunshine Stars,Kano Pillars,1,0,Home Win,1.38,0.59,1.73,0.67,1.56,0.63,0.93
+2023-24,Sunshine Stars,Katsina United,1,0,Home Win,1.38,0.59,1.46,0.28,1.42,0.43,0.99
+2023-24,Sunshine Stars,Kwara United,1,1,Draw,1.38,0.59,1.59,0.59,1.49,0.59,0.89
+2023-24,Sunshine Stars,Lobi Stars,2,0,Home Win,1.38,0.59,1.64,0.58,1.51,0.58,0.92
+2023-24,Sunshine Stars,Niger Tornadoes,0,0,Draw,1.38,0.59,1.49,0.63,1.44,0.61,0.83
+2023-24,Sunshine Stars,Plateau United,3,1,Home Win,1.38,0.59,1.55,0.81,1.47,0.7,0.77
+2023-24,Sunshine Stars,Remo Stars,2,1,Home Win,1.38,0.59,1.38,0.75,1.38,0.67,0.71
+2023-24,Sunshine Stars,Rivers United,1,0,Home Win,1.38,0.59,1.15,0.7,1.27,0.65,0.62
+2023-24,Sunshine Stars,Shooting Stars,1,0,Home Win,1.38,0.59,1.52,0.64,1.45,0.62,0.83
+2023-24,Sunshine Stars,Sporting Lagos,1,0,Home Win,1.38,0.59,1.63,0.42,1.51,0.51,1.0
+2022-23,Akwa United,Bendel Insurance,0,2,Away Win,1.53,0.64,1.11,0.61,1.32,0.62,0.7
+2022-23,Akwa United,El-Kanemi Warriors,2,0,Home Win,1.53,0.64,1.75,0.47,1.64,0.55,1.09
+2022-23,Akwa United,Enyimba,1,0,Home Win,1.53,0.64,1.19,0.66,1.36,0.65,0.71
+2022-23,Akwa United,Gombe United,1,0,Home Win,1.53,0.64,2.0,0.34,1.77,0.49,1.28
+2022-23,Akwa United,Kwara United,3,1,Home Win,1.53,0.64,1.59,0.59,1.56,0.62,0.95
+2022-23,Akwa United,Nasarawa United,2,2,Draw,1.53,0.64,1.55,0.67,1.54,0.65,0.88
+2022-23,Akwa United,Plateau United,1,0,Home Win,1.53,0.64,1.55,0.81,1.54,0.72,0.82
+2022-23,Akwa United,Remo Stars,3,1,Home Win,1.53,0.64,1.38,0.75,1.46,0.69,0.76
+2022-23,Akwa United,Shooting Stars,2,0,Home Win,1.53,0.64,1.52,0.64,1.53,0.64,0.89
+2022-23,Bendel Insurance,Akwa United,1,1,Draw,1.35,0.53,1.35,0.56,1.35,0.54,0.8
+2022-23,Bendel Insurance,El-Kanemi Warriors,2,1,Home Win,1.35,0.53,1.75,0.47,1.55,0.5,1.05
+2022-23,Bendel Insurance,Enyimba,1,0,Home Win,1.35,0.53,1.19,0.66,1.27,0.59,0.68
+2022-23,Bendel Insurance,Gombe United,0,0,Draw,1.35,0.53,2.0,0.34,1.67,0.43,1.24
+2022-23,Bendel Insurance,Kwara United,1,1,Draw,1.35,0.53,1.59,0.59,1.47,0.56,0.91
+2022-23,Bendel Insurance,Nasarawa United,1,0,Home Win,1.35,0.53,1.55,0.67,1.45,0.6,0.85
+2022-23,Bendel Insurance,Plateau United,2,1,Home Win,1.35,0.53,1.55,0.81,1.45,0.67,0.78
+2022-23,Bendel Insurance,Remo Stars,3,0,Home Win,1.35,0.53,1.38,0.75,1.36,0.64,0.72
+2022-23,Bendel Insurance,Shooting Stars,1,1,Draw,1.35,0.53,1.52,0.64,1.43,0.59,0.85
+2022-23,El-Kanemi Warriors,Akwa United,1,1,Draw,1.09,0.6,1.35,0.56,1.22,0.58,0.64
+2022-23,El-Kanemi Warriors,Bendel Insurance,0,1,Away Win,1.09,0.6,1.11,0.61,1.1,0.61,0.49
+2022-23,El-Kanemi Warriors,Enyimba,0,1,Away Win,1.09,0.6,1.19,0.66,1.14,0.63,0.51
+2022-23,El-Kanemi Warriors,Gombe United,0,0,Draw,1.09,0.6,2.0,0.34,1.54,0.47,1.07
+2022-23,El-Kanemi Warriors,Kwara United,1,2,Away Win,1.09,0.6,1.59,0.59,1.34,0.6,0.74
+2022-23,El-Kanemi Warriors,Nasarawa United,2,1,Home Win,1.09,0.6,1.55,0.67,1.32,0.64,0.68
+2022-23,El-Kanemi Warriors,Plateau United,2,2,Draw,1.09,0.6,1.55,0.81,1.32,0.71,0.61
+2022-23,El-Kanemi Warriors,Remo Stars,1,2,Away Win,1.09,0.6,1.38,0.75,1.23,0.68,0.56
+2022-23,El-Kanemi Warriors,Shooting Stars,0,0,Draw,1.09,0.6,1.52,0.64,1.3,0.62,0.68
+2022-23,Enyimba,Akwa United,0,0,Draw,1.55,0.57,1.35,0.56,1.45,0.56,0.89
+2022-23,Enyimba,Bendel Insurance,1,1,Draw,1.55,0.57,1.11,0.61,1.33,0.59,0.74
+2022-23,Enyimba,El-Kanemi Warriors,2,0,Home Win,1.55,0.57,1.75,0.47,1.65,0.52,1.13
+2022-23,Enyimba,Gombe United,5,0,Home Win,1.55,0.57,2.0,0.34,1.78,0.45,1.32
+2022-23,Enyimba,Kwara United,3,0,Home Win,1.55,0.57,1.59,0.59,1.57,0.58,0.99
+2022-23,Enyimba,Nasarawa United,1,1,Draw,1.55,0.57,1.55,0.67,1.55,0.62,0.93
+2022-23,Enyimba,Plateau United,2,1,Home Win,1.55,0.57,1.55,0.81,1.55,0.69,0.86
+2022-23,Enyimba,Remo Stars,1,1,Draw,1.55,0.57,1.38,0.75,1.47,0.66,0.81
+2022-23,Enyimba,Shooting Stars,2,0,Home Win,1.55,0.57,1.52,0.64,1.54,0.61,0.93
+2022-23,Gombe United,Akwa United,0,1,Away Win,1.28,0.87,1.35,0.56,1.31,0.72,0.6
+2022-23,Gombe United,Bendel Insurance,0,0,Draw,1.28,0.87,1.11,0.61,1.19,0.74,0.45
+2022-23,Gombe United,El-Kanemi Warriors,1,0,Home Win,1.28,0.87,1.75,0.47,1.51,0.67,0.84
+2022-23,Gombe United,Enyimba,1,2,Away Win,1.28,0.87,1.19,0.66,1.23,0.76,0.47
+2022-23,Gombe United,Kwara United,1,0,Home Win,1.28,0.87,1.59,0.59,1.44,0.73,0.7
+2022-23,Gombe United,Nasarawa United,1,1,Draw,1.28,0.87,1.55,0.67,1.41,0.77,0.64
+2022-23,Gombe United,Plateau United,3,2,Home Win,1.28,0.87,1.55,0.81,1.42,0.84,0.57
+2022-23,Gombe United,Remo Stars,0,1,Away Win,1.28,0.87,1.38,0.75,1.33,0.81,0.52
+2022-23,Gombe United,Shooting Stars,2,1,Home Win,1.28,0.87,1.52,0.64,1.4,0.76,0.64
+2022-23,Kwara United,Akwa United,2,1,Home Win,1.36,0.47,1.35,0.56,1.35,0.51,0.84
+2022-23,Kwara United,Bendel Insurance,0,1,Away Win,1.36,0.47,1.11,0.61,1.23,0.54,0.7
+2022-23,Kwara United,El-Kanemi Warriors,2,0,Home Win,1.36,0.47,1.75,0.47,1.55,0.47,1.08
+2022-23,Kwara United,Enyimba,1,2,Away Win,1.36,0.47,1.19,0.66,1.27,0.56,0.71
+2022-23,Kwara United,Gombe United,0,0,Draw,1.36,0.47,2.0,0.34,1.68,0.4,1.27
+2022-23,Kwara United,Nasarawa United,1,0,Home Win,1.36,0.47,1.55,0.67,1.45,0.57,0.88
+2022-23,Kwara United,Plateau United,1,1,Draw,1.36,0.47,1.55,0.81,1.46,0.64,0.82
+2022-23,Kwara United,Remo Stars,0,0,Draw,1.36,0.47,1.38,0.75,1.37,0.61,0.76
+2022-23,Kwara United,Shooting Stars,0,1,Away Win,1.36,0.47,1.52,0.64,1.44,0.55,0.88
+2022-23,Nasarawa United,Akwa United,0,3,Away Win,1.41,0.69,1.35,0.56,1.38,0.62,0.76
+2022-23,Nasarawa United,Bendel Insurance,1,1,Draw,1.41,0.69,1.11,0.61,1.26,0.65,0.61
+2022-23,Nasarawa United,El-Kanemi Warriors,1,2,Away Win,1.41,0.69,1.75,0.47,1.58,0.58,1.0
+2022-23,Nasarawa United,Enyimba,1,2,Away Win,1.41,0.69,1.19,0.66,1.3,0.67,0.63
+2022-23,Nasarawa United,Gombe United,1,1,Draw,1.41,0.69,2.0,0.34,1.7,0.51,1.19
+2022-23,Nasarawa United,Kwara United,2,0,Home Win,1.41,0.69,1.59,0.59,1.5,0.64,0.86
+2022-23,Nasarawa United,Plateau United,1,2,Away Win,1.41,0.69,1.55,0.81,1.48,0.75,0.73
+2022-23,Nasarawa United,Remo Stars,2,0,Home Win,1.41,0.69,1.38,0.75,1.4,0.72,0.68
+2022-23,Nasarawa United,Shooting Stars,1,0,Home Win,1.41,0.69,1.52,0.64,1.46,0.66,0.8
+2022-23,Plateau United,Akwa United,1,0,Home Win,1.78,0.49,1.35,0.56,1.56,0.52,1.04
+2022-23,Plateau United,Bendel Insurance,1,1,Draw,1.78,0.49,1.11,0.61,1.44,0.55,0.9
+2022-23,Plateau United,El-Kanemi Warriors,5,0,Home Win,1.78,0.49,1.75,0.47,1.76,0.48,1.28
+2022-23,Plateau United,Enyimba,2,1,Home Win,1.78,0.49,1.19,0.66,1.48,0.57,0.91
+2022-23,Plateau United,Gombe United,2,0,Home Win,1.78,0.49,2.0,0.34,1.89,0.41,1.48
+2022-23,Plateau United,Kwara United,1,0,Home Win,1.78,0.49,1.59,0.59,1.69,0.54,1.15
+2022-23,Plateau United,Nasarawa United,1,0,Home Win,1.78,0.49,1.55,0.67,1.66,0.58,1.08
+2022-23,Plateau United,Remo Stars,1,2,Away Win,1.78,0.49,1.38,0.75,1.58,0.62,0.96
+2022-23,Plateau United,Shooting Stars,3,3,Draw,1.78,0.49,1.52,0.64,1.65,0.56,1.08
+2022-23,Remo Stars,Akwa United,1,0,Home Win,1.71,0.36,1.35,0.56,1.53,0.46,1.07
+2022-23,Remo Stars,Bendel Insurance,1,1,Draw,1.71,0.36,1.11,0.61,1.41,0.48,0.93
+2022-23,Remo Stars,El-Kanemi Warriors,2,0,Home Win,1.71,0.36,1.75,0.47,1.73,0.41,1.32
+2022-23,Remo Stars,Enyimba,1,0,Home Win,1.71,0.36,1.19,0.66,1.45,0.51,0.95
+2022-23,Remo Stars,Gombe United,0,0,Draw,1.71,0.36,2.0,0.34,1.86,0.35,1.51
+2022-23,Remo Stars,Kwara United,4,0,Home Win,1.71,0.36,1.59,0.59,1.65,0.48,1.18
+2022-23,Remo Stars,Nasarawa United,1,0,Home Win,1.71,0.36,1.55,0.67,1.63,0.51,1.11
+2022-23,Remo Stars,Plateau United,1,1,Draw,1.71,0.36,1.55,0.81,1.63,0.58,1.05
+2022-23,Remo Stars,Shooting Stars,2,0,Home Win,1.71,0.36,1.52,0.64,1.62,0.5,1.12
+2022-23,Shooting Stars,Akwa United,2,2,Draw,1.52,0.51,1.35,0.56,1.43,0.53,0.9
+2022-23,Shooting Stars,Bendel Insurance,2,2,Draw,1.52,0.51,1.11,0.61,1.32,0.56,0.76
+2022-23,Shooting Stars,El-Kanemi Warriors,1,0,Home Win,1.52,0.51,1.75,0.47,1.64,0.49,1.15
+2022-23,Shooting Stars,Enyimba,0,0,Draw,1.52,0.51,1.19,0.66,1.36,0.58,0.77
+2022-23,Shooting Stars,Gombe United,1,0,Home Win,1.52,0.51,2.0,0.34,1.76,0.42,1.34
+2022-23,Shooting Stars,Kwara United,0,0,Draw,1.52,0.51,1.59,0.59,1.56,0.55,1.01
+2022-23,Shooting Stars,Nasarawa United,2,0,Home Win,1.52,0.51,1.55,0.67,1.53,0.59,0.94
+2022-23,Shooting Stars,Plateau United,3,2,Home Win,1.52,0.51,1.55,0.81,1.54,0.66,0.88
+2022-23,Shooting Stars,Remo Stars,1,1,Draw,1.52,0.51,1.38,0.75,1.45,0.63,0.82
+2022-23,Abia Warriors,Bayelsa United,3,1,Home Win,1.51,0.49,1.37,0.61,1.44,0.55,0.89
+2022-23,Abia Warriors,Dakkada,3,0,Home Win,1.51,0.49,1.89,0.5,1.7,0.5,1.2
+2022-23,Abia Warriors,Doma United,2,0,Home Win,1.51,0.49,1.64,0.46,1.57,0.48,1.1
+2022-23,Abia Warriors,Enugu Rangers,2,1,Home Win,1.51,0.49,1.12,0.68,1.31,0.58,0.73
+2022-23,Abia Warriors,Lobi Stars,0,1,Away Win,1.51,0.49,1.64,0.58,1.57,0.53,1.04
+2022-23,Abia Warriors,Niger Tornadoes,1,0,Home Win,1.51,0.49,1.49,0.63,1.5,0.56,0.94
+2022-23,Abia Warriors,Rivers United,0,0,Draw,1.51,0.49,1.15,0.7,1.33,0.6,0.73
+2022-23,Abia Warriors,Sunshine Stars,2,1,Home Win,1.51,0.49,1.42,0.45,1.47,0.47,0.99
+2022-23,Abia Warriors,Wikki Tourists,1,1,Draw,1.51,0.49,1.5,0.5,1.5,0.5,1.01
+2022-23,Bayelsa United,Abia Warriors,5,1,Home Win,1.71,0.95,1.72,0.8,1.71,0.87,0.84
+2022-23,Bayelsa United,Dakkada,1,1,Draw,1.71,0.95,1.89,0.5,1.8,0.72,1.08
+2022-23,Bayelsa United,Doma United,1,1,Draw,1.71,0.95,1.64,0.46,1.68,0.7,0.97
+2022-23,Bayelsa United,Enugu Rangers,1,1,Draw,1.71,0.95,1.12,0.68,1.42,0.81,0.6
+2022-23,Bayelsa United,Lobi Stars,3,0,Home Win,1.71,0.95,1.64,0.58,1.67,0.76,0.91
+2022-23,Bayelsa United,Niger Tornadoes,2,0,Home Win,1.71,0.95,1.49,0.63,1.6,0.79,0.81
+2022-23,Bayelsa United,Rivers United,2,2,Draw,1.71,0.95,1.15,0.7,1.43,0.82,0.61
+2022-23,Bayelsa United,Sunshine Stars,2,1,Home Win,1.71,0.95,1.42,0.45,1.57,0.7,0.87
+2022-23,Bayelsa United,Wikki Tourists,2,1,Home Win,1.71,0.95,1.5,0.5,1.6,0.72,0.88
+2022-23,Dakkada,Abia Warriors,2,4,Away Win,1.54,0.89,1.72,0.8,1.63,0.85,0.78
+2022-23,Dakkada,Bayelsa United,1,1,Draw,1.54,0.89,1.37,0.61,1.45,0.75,0.7
+2022-23,Dakkada,Doma United,1,0,Home Win,1.54,0.89,1.64,0.46,1.59,0.68,0.91
+2022-23,Dakkada,Enugu Rangers,1,1,Draw,1.54,0.89,1.12,0.68,1.33,0.78,0.54
+2022-23,Dakkada,Lobi Stars,1,1,Draw,1.54,0.89,1.64,0.58,1.59,0.73,0.85
+2022-23,Dakkada,Niger Tornadoes,1,2,Away Win,1.54,0.89,1.49,0.63,1.51,0.76,0.75
+2022-23,Dakkada,Rivers United,1,2,Away Win,1.54,0.89,1.15,0.7,1.35,0.8,0.55
+2022-23,Dakkada,Sunshine Stars,2,1,Home Win,1.54,0.89,1.42,0.45,1.48,0.67,0.81
+2022-23,Dakkada,Wikki Tourists,2,1,Home Win,1.54,0.89,1.5,0.5,1.52,0.7,0.82
+2022-23,Doma United,Abia Warriors,1,0,Home Win,1.0,0.39,1.72,0.8,1.36,0.6,0.76
+2022-23,Doma United,Bayelsa United,2,1,Home Win,1.0,0.39,1.37,0.61,1.19,0.5,0.68
+2022-23,Doma United,Dakkada,1,0,Home Win,1.0,0.39,1.89,0.5,1.45,0.45,1.0
+2022-23,Doma United,Enugu Rangers,0,0,Draw,1.0,0.39,1.12,0.68,1.06,0.53,0.53
+2022-23,Doma United,Lobi Stars,2,0,Home Win,1.0,0.39,1.64,0.58,1.32,0.48,0.83
+2022-23,Doma United,Niger Tornadoes,2,1,Home Win,1.0,0.39,1.49,0.63,1.25,0.51,0.74
+2022-23,Doma United,Rivers United,2,1,Home Win,1.0,0.39,1.15,0.7,1.08,0.55,0.53
+2022-23,Doma United,Sunshine Stars,1,1,Draw,1.0,0.39,1.42,0.45,1.21,0.42,0.79
+2022-23,Doma United,Wikki Tourists,2,0,Home Win,1.0,0.39,1.5,0.5,1.25,0.45,0.8
+2022-23,Enugu Rangers,Abia Warriors,0,2,Away Win,1.6,0.56,1.72,0.8,1.66,0.68,0.98
+2022-23,Enugu Rangers,Bayelsa United,2,1,Home Win,1.6,0.56,1.37,0.61,1.49,0.59,0.9
+2022-23,Enugu Rangers,Dakkada,1,0,Home Win,1.6,0.56,1.89,0.5,1.75,0.53,1.22
+2022-23,Enugu Rangers,Doma United,1,0,Home Win,1.6,0.56,1.64,0.46,1.62,0.51,1.11
+2022-23,Enugu Rangers,Lobi Stars,1,1,Draw,1.6,0.56,1.64,0.58,1.62,0.57,1.05
+2022-23,Enugu Rangers,Niger Tornadoes,2,2,Draw,1.6,0.56,1.49,0.63,1.55,0.6,0.95
+2022-23,Enugu Rangers,Rivers United,1,1,Draw,1.6,0.56,1.15,0.7,1.38,0.63,0.75
+2022-23,Enugu Rangers,Sunshine Stars,1,1,Draw,1.6,0.56,1.42,0.45,1.51,0.51,1.01
+2022-23,Enugu Rangers,Wikki Tourists,3,0,Home Win,1.6,0.56,1.5,0.5,1.55,0.53,1.02
+2022-23,Lobi Stars,Abia Warriors,2,0,Home Win,1.45,0.89,1.72,0.8,1.59,0.85,0.74
+2022-23,Lobi Stars,Bayelsa United,3,0,Home Win,1.45,0.89,1.37,0.61,1.41,0.75,0.66
+2022-23,Lobi Stars,Dakkada,2,1,Home Win,1.45,0.89,1.89,0.5,1.67,0.7,0.98
+2022-23,Lobi Stars,Doma United,2,0,Home Win,1.45,0.89,1.64,0.46,1.55,0.68,0.87
+2022-23,Lobi Stars,Enugu Rangers,1,0,Home Win,1.45,0.89,1.12,0.68,1.29,0.78,0.5
+2022-23,Lobi Stars,Niger Tornadoes,1,0,Home Win,1.45,0.89,1.49,0.63,1.47,0.76,0.71
+2022-23,Lobi Stars,Rivers United,3,2,Home Win,1.45,0.89,1.15,0.7,1.3,0.8,0.51
+2022-23,Lobi Stars,Sunshine Stars,1,0,Home Win,1.45,0.89,1.42,0.45,1.44,0.67,0.77
+2022-23,Lobi Stars,Wikki Tourists,0,2,Away Win,1.45,0.89,1.5,0.5,1.48,0.7,0.78
+2022-23,Niger Tornadoes,Abia Warriors,3,0,Home Win,1.32,0.58,1.72,0.8,1.52,0.69,0.83
+2022-23,Niger Tornadoes,Bayelsa United,1,1,Draw,1.32,0.58,1.37,0.61,1.35,0.6,0.75
+2022-23,Niger Tornadoes,Dakkada,1,0,Home Win,1.32,0.58,1.89,0.5,1.61,0.54,1.07
+2022-23,Niger Tornadoes,Doma United,1,0,Home Win,1.32,0.58,1.64,0.46,1.48,0.52,0.96
+2022-23,Niger Tornadoes,Enugu Rangers,0,0,Draw,1.32,0.58,1.12,0.68,1.22,0.63,0.59
+2022-23,Niger Tornadoes,Lobi Stars,0,0,Draw,1.32,0.58,1.64,0.58,1.48,0.58,0.9
+2022-23,Niger Tornadoes,Rivers United,0,0,Draw,1.32,0.58,1.15,0.7,1.24,0.64,0.6
+2022-23,Niger Tornadoes,Sunshine Stars,0,2,Away Win,1.32,0.58,1.42,0.45,1.37,0.52,0.86
+2022-23,Niger Tornadoes,Wikki Tourists,2,0,Home Win,1.32,0.58,1.5,0.5,1.41,0.54,0.87
+2022-23,Rivers United,Abia Warriors,1,1,Draw,1.74,0.44,1.72,0.8,1.73,0.62,1.11
+2022-23,Rivers United,Bayelsa United,2,1,Home Win,1.74,0.44,1.37,0.61,1.56,0.52,1.03
+2022-23,Rivers United,Dakkada,1,0,Home Win,1.74,0.44,1.89,0.5,1.82,0.47,1.35
+2022-23,Rivers United,Doma United,2,0,Home Win,1.74,0.44,1.64,0.46,1.69,0.45,1.24
+2022-23,Rivers United,Enugu Rangers,1,0,Home Win,1.74,0.44,1.12,0.68,1.43,0.56,0.87
+2022-23,Rivers United,Lobi Stars,2,1,Home Win,1.74,0.44,1.64,0.58,1.69,0.51,1.18
+2022-23,Rivers United,Niger Tornadoes,2,1,Home Win,1.74,0.44,1.49,0.63,1.62,0.53,1.08
+2022-23,Rivers United,Sunshine Stars,1,0,Home Win,1.74,0.44,1.42,0.45,1.58,0.45,1.14
+2022-23,Rivers United,Wikki Tourists,2,0,Home Win,1.74,0.44,1.5,0.5,1.62,0.47,1.15
+2022-23,Sunshine Stars,Abia Warriors,1,0,Home Win,1.38,0.59,1.72,0.8,1.55,0.69,0.85
+2022-23,Sunshine Stars,Bayelsa United,1,0,Home Win,1.38,0.59,1.37,0.61,1.37,0.6,0.77
+2022-23,Sunshine Stars,Dakkada,3,0,Home Win,1.38,0.59,1.89,0.5,1.64,0.55,1.09
+2022-23,Sunshine Stars,Doma United,1,1,Draw,1.38,0.59,1.64,0.46,1.51,0.53,0.98
+2022-23,Sunshine Stars,Enugu Rangers,1,1,Draw,1.38,0.59,1.12,0.68,1.25,0.63,0.62
+2022-23,Sunshine Stars,Lobi Stars,1,0,Home Win,1.38,0.59,1.64,0.58,1.51,0.58,0.92
+2022-23,Sunshine Stars,Niger Tornadoes,2,0,Home Win,1.38,0.59,1.49,0.63,1.44,0.61,0.83
+2022-23,Sunshine Stars,Rivers United,1,1,Draw,1.38,0.59,1.15,0.7,1.27,0.65,0.62
+2022-23,Sunshine Stars,Wikki Tourists,1,0,Home Win,1.38,0.59,1.5,0.5,1.44,0.55,0.89
+2022-23,Wikki Tourists,Abia Warriors,4,0,Home Win,1.31,0.51,1.72,0.8,1.52,0.66,0.86
+2022-23,Wikki Tourists,Bayelsa United,1,2,Away Win,1.31,0.51,1.37,0.61,1.34,0.56,0.78
+2022-23,Wikki Tourists,Dakkada,3,1,Home Win,1.31,0.51,1.89,0.5,1.6,0.51,1.1
+2022-23,Wikki Tourists,Doma United,0,0,Draw,1.31,0.51,1.64,0.46,1.48,0.49,0.99
+2022-23,Wikki Tourists,Enugu Rangers,1,0,Home Win,1.31,0.51,1.12,0.68,1.22,0.59,0.62
+2022-23,Wikki Tourists,Lobi Stars,2,1,Home Win,1.31,0.51,1.64,0.58,1.48,0.55,0.93
+2022-23,Wikki Tourists,Niger Tornadoes,0,2,Away Win,1.31,0.51,1.49,0.63,1.4,0.57,0.83
+2022-23,Wikki Tourists,Rivers United,1,1,Draw,1.31,0.51,1.15,0.7,1.23,0.61,0.63
+2022-23,Wikki Tourists,Sunshine Stars,1,1,Draw,1.31,0.51,1.42,0.45,1.37,0.48,0.88
+2021-22,Abia Warriors,Akwa United,0,0,Draw,1.51,0.49,1.35,0.56,1.43,0.53,0.9
+2021-22,Abia Warriors,Dakkada,1,1,Draw,1.51,0.49,1.89,0.5,1.7,0.5,1.2
+2021-22,Abia Warriors,Enugu Rangers,2,0,Home Win,1.51,0.49,1.12,0.68,1.31,0.58,0.73
+2021-22,Abia Warriors,Enyimba,2,1,Home Win,1.51,0.49,1.19,0.66,1.35,0.58,0.77
+2021-22,Abia Warriors,Gombe United,3,2,Home Win,1.51,0.49,2.0,0.34,1.75,0.42,1.34
+2021-22,Abia Warriors,Heartland,1,0,Home Win,1.51,0.49,1.6,0.51,1.55,0.5,1.05
+2021-22,Abia Warriors,Kano Pillars,3,2,Home Win,1.51,0.49,1.73,0.67,1.62,0.58,1.04
+2021-22,Abia Warriors,Katsina United,2,2,Draw,1.51,0.49,1.46,0.28,1.48,0.39,1.1
+2021-22,Abia Warriors,Kwara United,1,1,Draw,1.51,0.49,1.59,0.59,1.55,0.54,1.01
+2021-22,Abia Warriors,Lobi Stars,3,0,Home Win,1.51,0.49,1.64,0.58,1.57,0.53,1.04
+2021-22,Abia Warriors,MFM,2,1,Home Win,1.51,0.49,1.79,0.42,1.65,0.46,1.19
+2021-22,Abia Warriors,Nasarawa United,1,1,Draw,1.51,0.49,1.55,0.67,1.53,0.58,0.94
+2021-22,Abia Warriors,Niger Tornadoes,1,1,Draw,1.51,0.49,1.49,0.63,1.5,0.56,0.94
+2021-22,Abia Warriors,Plateau United,2,0,Home Win,1.51,0.49,1.55,0.81,1.53,0.65,0.88
+2021-22,Abia Warriors,Remo Stars,2,0,Home Win,1.51,0.49,1.38,0.75,1.45,0.62,0.82
+2021-22,Abia Warriors,Rivers United,1,1,Draw,1.51,0.49,1.15,0.7,1.33,0.6,0.73
+2021-22,Abia Warriors,Shooting Stars,2,1,Home Win,1.51,0.49,1.52,0.64,1.51,0.57,0.95
+2021-22,Abia Warriors,Sunshine Stars,1,0,Home Win,1.51,0.49,1.42,0.45,1.47,0.47,0.99
+2021-22,Abia Warriors,Wikki Tourists,3,0,Home Win,1.51,0.49,1.5,0.5,1.5,0.5,1.01
+2021-22,Akwa United,Abia Warriors,2,2,Draw,1.53,0.64,1.72,0.8,1.62,0.72,0.91
+2021-22,Akwa United,Dakkada,3,2,Home Win,1.53,0.64,1.89,0.5,1.71,0.57,1.14
+2021-22,Akwa United,Enugu Rangers,0,3,Away Win,1.53,0.64,1.12,0.68,1.33,0.66,0.67
+2021-22,Akwa United,Enyimba,1,1,Draw,1.53,0.64,1.19,0.66,1.36,0.65,0.71
+2021-22,Akwa United,Gombe United,1,0,Home Win,1.53,0.64,2.0,0.34,1.77,0.49,1.28
+2021-22,Akwa United,Heartland,0,0,Draw,1.53,0.64,1.6,0.51,1.56,0.57,0.99
+2021-22,Akwa United,Kano Pillars,3,0,Home Win,1.53,0.64,1.73,0.67,1.63,0.65,0.98
+2021-22,Akwa United,Katsina United,2,0,Home Win,1.53,0.64,1.46,0.28,1.5,0.46,1.04
+2021-22,Akwa United,Kwara United,1,1,Draw,1.53,0.64,1.59,0.59,1.56,0.62,0.95
+2021-22,Akwa United,Lobi Stars,1,0,Home Win,1.53,0.64,1.64,0.58,1.58,0.61,0.98
+2021-22,Akwa United,MFM,0,0,Draw,1.53,0.64,1.79,0.42,1.66,0.53,1.13
+2021-22,Akwa United,Nasarawa United,6,1,Home Win,1.53,0.64,1.55,0.67,1.54,0.65,0.88
+2021-22,Akwa United,Niger Tornadoes,1,0,Home Win,1.53,0.64,1.49,0.63,1.51,0.63,0.88
+2021-22,Akwa United,Plateau United,2,1,Home Win,1.53,0.64,1.55,0.81,1.54,0.72,0.82
+2021-22,Akwa United,Remo Stars,1,0,Home Win,1.53,0.64,1.38,0.75,1.46,0.69,0.76
+2021-22,Akwa United,Rivers United,1,1,Draw,1.53,0.64,1.15,0.7,1.34,0.67,0.67
+2021-22,Akwa United,Shooting Stars,2,1,Home Win,1.53,0.64,1.52,0.64,1.53,0.64,0.89
+2021-22,Akwa United,Sunshine Stars,0,0,Draw,1.53,0.64,1.42,0.45,1.48,0.55,0.93
+2021-22,Akwa United,Wikki Tourists,2,0,Home Win,1.53,0.64,1.5,0.5,1.52,0.57,0.95
+2021-22,Dakkada,Abia Warriors,2,1,Home Win,1.54,0.89,1.72,0.8,1.63,0.85,0.78
+2021-22,Dakkada,Akwa United,3,1,Home Win,1.54,0.89,1.35,0.56,1.44,0.73,0.72
+2021-22,Dakkada,Enugu Rangers,0,0,Draw,1.54,0.89,1.12,0.68,1.33,0.78,0.54
+2021-22,Dakkada,Enyimba,2,0,Home Win,1.54,0.89,1.19,0.66,1.36,0.78,0.59
+2021-22,Dakkada,Gombe United,0,1,Away Win,1.54,0.89,2.0,0.34,1.77,0.62,1.15
+2021-22,Dakkada,Heartland,2,1,Home Win,1.54,0.89,1.6,0.51,1.57,0.7,0.87
+2021-22,Dakkada,Kano Pillars,1,0,Home Win,1.54,0.89,1.73,0.67,1.64,0.78,0.85
+2021-22,Dakkada,Katsina United,2,0,Home Win,1.54,0.89,1.46,0.28,1.5,0.58,0.91
+2021-22,Dakkada,Kwara United,2,0,Home Win,1.54,0.89,1.59,0.59,1.57,0.74,0.82
+2021-22,Dakkada,Lobi Stars,2,1,Home Win,1.54,0.89,1.64,0.58,1.59,0.73,0.85
+2021-22,Dakkada,MFM,2,0,Home Win,1.54,0.89,1.79,0.42,1.66,0.66,1.01
+2021-22,Dakkada,Nasarawa United,2,1,Home Win,1.54,0.89,1.55,0.67,1.54,0.78,0.76
+2021-22,Dakkada,Niger Tornadoes,2,1,Home Win,1.54,0.89,1.49,0.63,1.51,0.76,0.75
+2021-22,Dakkada,Plateau United,1,0,Home Win,1.54,0.89,1.55,0.81,1.54,0.85,0.69
+2021-22,Dakkada,Remo Stars,1,1,Draw,1.54,0.89,1.38,0.75,1.46,0.82,0.64
+2021-22,Dakkada,Rivers United,2,3,Away Win,1.54,0.89,1.15,0.7,1.35,0.8,0.55
+2021-22,Dakkada,Shooting Stars,2,0,Home Win,1.54,0.89,1.52,0.64,1.53,0.77,0.76
+2021-22,Dakkada,Sunshine Stars,3,0,Home Win,1.54,0.89,1.42,0.45,1.48,0.67,0.81
+2021-22,Dakkada,Wikki Tourists,0,1,Away Win,1.54,0.89,1.5,0.5,1.52,0.7,0.82
+2021-22,Enugu Rangers,Abia Warriors,2,1,Home Win,1.6,0.56,1.72,0.8,1.66,0.68,0.98
+2021-22,Enugu Rangers,Akwa United,2,0,Home Win,1.6,0.56,1.35,0.56,1.48,0.56,0.91
+2021-22,Enugu Rangers,Dakkada,1,0,Home Win,1.6,0.56,1.89,0.5,1.75,0.53,1.22
+2021-22,Enugu Rangers,Enyimba,0,1,Away Win,1.6,0.56,1.19,0.66,1.4,0.61,0.79
+2021-22,Enugu Rangers,Gombe United,1,0,Home Win,1.6,0.56,2.0,0.34,1.8,0.45,1.35
+2021-22,Enugu Rangers,Heartland,3,1,Home Win,1.6,0.56,1.6,0.51,1.6,0.54,1.06
+2021-22,Enugu Rangers,Kano Pillars,0,0,Draw,1.6,0.56,1.73,0.67,1.67,0.62,1.05
+2021-22,Enugu Rangers,Katsina United,1,0,Home Win,1.6,0.56,1.46,0.28,1.53,0.42,1.11
+2021-22,Enugu Rangers,Kwara United,3,0,Home Win,1.6,0.56,1.59,0.59,1.6,0.58,1.02
+2021-22,Enugu Rangers,Lobi Stars,5,3,Home Win,1.6,0.56,1.64,0.58,1.62,0.57,1.05
+2021-22,Enugu Rangers,MFM,2,0,Home Win,1.6,0.56,1.79,0.42,1.7,0.49,1.2
+2021-22,Enugu Rangers,Nasarawa United,1,0,Home Win,1.6,0.56,1.55,0.67,1.57,0.62,0.96
+2021-22,Enugu Rangers,Niger Tornadoes,4,0,Home Win,1.6,0.56,1.49,0.63,1.55,0.6,0.95
+2021-22,Enugu Rangers,Plateau United,0,1,Away Win,1.6,0.56,1.55,0.81,1.58,0.69,0.89
+2021-22,Enugu Rangers,Remo Stars,0,0,Draw,1.6,0.56,1.38,0.75,1.49,0.66,0.84
+2021-22,Enugu Rangers,Rivers United,0,0,Draw,1.6,0.56,1.15,0.7,1.38,0.63,0.75
+2021-22,Enugu Rangers,Shooting Stars,2,2,Draw,1.6,0.56,1.52,0.64,1.56,0.6,0.96
+2021-22,Enugu Rangers,Sunshine Stars,0,0,Draw,1.6,0.56,1.42,0.45,1.51,0.51,1.01
+2021-22,Enugu Rangers,Wikki Tourists,2,1,Home Win,1.6,0.56,1.5,0.5,1.55,0.53,1.02
+2021-22,Enyimba,Abia Warriors,2,1,Home Win,1.55,0.57,1.72,0.8,1.64,0.68,0.95
+2021-22,Enyimba,Akwa United,1,0,Home Win,1.55,0.57,1.35,0.56,1.45,0.56,0.89
+2021-22,Enyimba,Dakkada,0,2,Away Win,1.55,0.57,1.89,0.5,1.72,0.53,1.19
+2021-22,Enyimba,Enugu Rangers,2,1,Home Win,1.55,0.57,1.12,0.68,1.34,0.62,0.72
+2021-22,Enyimba,Gombe United,3,0,Home Win,1.55,0.57,2.0,0.34,1.78,0.45,1.32
+2021-22,Enyimba,Heartland,0,0,Draw,1.55,0.57,1.6,0.51,1.58,0.54,1.04
+2021-22,Enyimba,Kano Pillars,4,0,Home Win,1.55,0.57,1.73,0.67,1.64,0.62,1.02
+2021-22,Enyimba,Katsina United,2,1,Home Win,1.55,0.57,1.46,0.28,1.51,0.42,1.09
+2021-22,Enyimba,Kwara United,3,0,Home Win,1.55,0.57,1.59,0.59,1.57,0.58,0.99
+2021-22,Enyimba,Lobi Stars,2,1,Home Win,1.55,0.57,1.64,0.58,1.6,0.57,1.02
+2021-22,Enyimba,MFM,1,1,Draw,1.55,0.57,1.79,0.42,1.67,0.49,1.18
+2021-22,Enyimba,Nasarawa United,3,2,Home Win,1.55,0.57,1.55,0.67,1.55,0.62,0.93
+2021-22,Enyimba,Niger Tornadoes,1,1,Draw,1.55,0.57,1.49,0.63,1.52,0.6,0.92
+2021-22,Enyimba,Plateau United,1,1,Draw,1.55,0.57,1.55,0.81,1.55,0.69,0.86
+2021-22,Enyimba,Remo Stars,2,1,Home Win,1.55,0.57,1.38,0.75,1.47,0.66,0.81
+2021-22,Enyimba,Rivers United,0,1,Away Win,1.55,0.57,1.15,0.7,1.35,0.64,0.72
+2021-22,Enyimba,Shooting Stars,1,0,Home Win,1.55,0.57,1.52,0.64,1.54,0.61,0.93
+2021-22,Enyimba,Sunshine Stars,2,0,Home Win,1.55,0.57,1.42,0.45,1.49,0.51,0.98
+2021-22,Enyimba,Wikki Tourists,2,0,Home Win,1.55,0.57,1.5,0.5,1.53,0.53,0.99
+2021-22,Gombe United,Abia Warriors,1,0,Home Win,1.28,0.87,1.72,0.8,1.5,0.83,0.66
+2021-22,Gombe United,Akwa United,1,1,Draw,1.28,0.87,1.35,0.56,1.31,0.72,0.6
+2021-22,Gombe United,Dakkada,2,2,Draw,1.28,0.87,1.89,0.5,1.58,0.69,0.9
+2021-22,Gombe United,Enugu Rangers,1,0,Home Win,1.28,0.87,1.12,0.68,1.2,0.77,0.43
+2021-22,Gombe United,Enyimba,0,0,Draw,1.28,0.87,1.19,0.66,1.23,0.76,0.47
+2021-22,Gombe United,Heartland,3,2,Home Win,1.28,0.87,1.6,0.51,1.44,0.69,0.75
+2021-22,Gombe United,Kano Pillars,1,0,Home Win,1.28,0.87,1.73,0.67,1.51,0.77,0.73
+2021-22,Gombe United,Katsina United,1,0,Home Win,1.28,0.87,1.46,0.28,1.37,0.57,0.79
+2021-22,Gombe United,Kwara United,4,2,Home Win,1.28,0.87,1.59,0.59,1.44,0.73,0.7
+2021-22,Gombe United,Lobi Stars,3,0,Home Win,1.28,0.87,1.64,0.58,1.46,0.72,0.73
+2021-22,Gombe United,MFM,3,0,Home Win,1.28,0.87,1.79,0.42,1.53,0.65,0.89
+2021-22,Gombe United,Nasarawa United,3,1,Home Win,1.28,0.87,1.55,0.67,1.41,0.77,0.64
+2021-22,Gombe United,Niger Tornadoes,1,0,Home Win,1.28,0.87,1.49,0.63,1.38,0.75,0.63
+2021-22,Gombe United,Plateau United,1,1,Draw,1.28,0.87,1.55,0.81,1.42,0.84,0.57
+2021-22,Gombe United,Remo Stars,1,0,Home Win,1.28,0.87,1.38,0.75,1.33,0.81,0.52
+2021-22,Gombe United,Rivers United,0,0,Draw,1.28,0.87,1.15,0.7,1.22,0.79,0.43
+2021-22,Gombe United,Shooting Stars,0,0,Draw,1.28,0.87,1.52,0.64,1.4,0.76,0.64
+2021-22,Gombe United,Sunshine Stars,1,0,Home Win,1.28,0.87,1.42,0.45,1.35,0.66,0.69
+2021-22,Gombe United,Wikki Tourists,2,1,Home Win,1.28,0.87,1.5,0.5,1.39,0.69,0.7
+2021-22,Heartland,Abia Warriors,2,1,Home Win,1.26,0.72,1.72,0.8,1.49,0.76,0.73
+2021-22,Heartland,Akwa United,1,0,Home Win,1.26,0.72,1.35,0.56,1.31,0.64,0.67
+2021-22,Heartland,Dakkada,1,0,Home Win,1.26,0.72,1.89,0.5,1.58,0.61,0.97
+2021-22,Heartland,Enugu Rangers,0,3,Away Win,1.26,0.72,1.12,0.68,1.19,0.7,0.49
+2021-22,Heartland,Enyimba,1,0,Home Win,1.26,0.72,1.19,0.66,1.23,0.69,0.54
+2021-22,Heartland,Gombe United,1,1,Draw,1.26,0.72,2.0,0.34,1.63,0.53,1.1
+2021-22,Heartland,Kano Pillars,0,1,Away Win,1.26,0.72,1.73,0.67,1.5,0.7,0.8
+2021-22,Heartland,Katsina United,1,0,Home Win,1.26,0.72,1.46,0.28,1.36,0.5,0.86
+2021-22,Heartland,Kwara United,1,0,Home Win,1.26,0.72,1.59,0.59,1.43,0.66,0.77
+2021-22,Heartland,Lobi Stars,1,0,Home Win,1.26,0.72,1.64,0.58,1.45,0.65,0.8
+2021-22,Heartland,MFM,0,0,Draw,1.26,0.72,1.79,0.42,1.53,0.57,0.96
+2021-22,Heartland,Nasarawa United,3,3,Draw,1.26,0.72,1.55,0.67,1.4,0.7,0.71
+2021-22,Heartland,Niger Tornadoes,1,0,Home Win,1.26,0.72,1.49,0.63,1.38,0.67,0.7
+2021-22,Heartland,Plateau United,1,0,Home Win,1.26,0.72,1.55,0.81,1.41,0.77,0.64
+2021-22,Heartland,Remo Stars,0,0,Draw,1.26,0.72,1.38,0.75,1.32,0.74,0.59
+2021-22,Heartland,Rivers United,2,0,Home Win,1.26,0.72,1.15,0.7,1.21,0.71,0.5
+2021-22,Heartland,Shooting Stars,3,1,Home Win,1.26,0.72,1.52,0.64,1.39,0.68,0.71
+2021-22,Heartland,Sunshine Stars,1,0,Home Win,1.26,0.72,1.42,0.45,1.34,0.59,0.76
+2021-22,Heartland,Wikki Tourists,1,0,Home Win,1.26,0.72,1.5,0.5,1.38,0.61,0.77
+2021-22,Kano Pillars,Abia Warriors,2,1,Home Win,1.44,0.58,1.72,0.8,1.58,0.69,0.89
+2021-22,Kano Pillars,Akwa United,0,0,Draw,1.44,0.58,1.35,0.56,1.39,0.57,0.82
+2021-22,Kano Pillars,Dakkada,1,0,Home Win,1.44,0.58,1.89,0.5,1.67,0.54,1.13
+2021-22,Kano Pillars,Enugu Rangers,1,0,Home Win,1.44,0.58,1.12,0.68,1.28,0.63,0.65
+2021-22,Kano Pillars,Enyimba,2,0,Home Win,1.44,0.58,1.19,0.66,1.31,0.62,0.7
+2021-22,Kano Pillars,Gombe United,3,1,Home Win,1.44,0.58,2.0,0.34,1.72,0.46,1.26
+2021-22,Kano Pillars,Heartland,3,1,Home Win,1.44,0.58,1.6,0.51,1.52,0.54,0.97
+2021-22,Kano Pillars,Katsina United,1,0,Home Win,1.44,0.58,1.46,0.28,1.45,0.43,1.02
+2021-22,Kano Pillars,Kwara United,2,1,Home Win,1.44,0.58,1.59,0.59,1.52,0.59,0.93
+2021-22,Kano Pillars,Lobi Stars,0,0,Draw,1.44,0.58,1.64,0.58,1.54,0.58,0.96
+2021-22,Kano Pillars,MFM,1,0,Home Win,1.44,0.58,1.79,0.42,1.61,0.5,1.11
+2021-22,Kano Pillars,Nasarawa United,2,0,Home Win,1.44,0.58,1.55,0.67,1.49,0.63,0.87
+2021-22,Kano Pillars,Niger Tornadoes,1,0,Home Win,1.44,0.58,1.49,0.63,1.47,0.6,0.86
+2021-22,Kano Pillars,Plateau United,0,1,Away Win,1.44,0.58,1.55,0.81,1.5,0.69,0.8
+2021-22,Kano Pillars,Remo Stars,0,0,Draw,1.44,0.58,1.38,0.75,1.41,0.67,0.74
+2021-22,Kano Pillars,Rivers United,0,1,Away Win,1.44,0.58,1.15,0.7,1.3,0.64,0.66
+2021-22,Kano Pillars,Shooting Stars,2,1,Home Win,1.44,0.58,1.52,0.64,1.48,0.61,0.87
+2021-22,Kano Pillars,Sunshine Stars,1,0,Home Win,1.44,0.58,1.42,0.45,1.43,0.52,0.91
+2021-22,Kano Pillars,Wikki Tourists,1,1,Draw,1.44,0.58,1.5,0.5,1.47,0.54,0.93
+2021-22,Katsina United,Abia Warriors,2,1,Home Win,1.59,0.58,1.72,0.8,1.65,0.69,0.97
+2021-22,Katsina United,Akwa United,1,0,Home Win,1.59,0.58,1.35,0.56,1.47,0.57,0.9
+2021-22,Katsina United,Dakkada,4,1,Home Win,1.59,0.58,1.89,0.5,1.74,0.54,1.2
+2021-22,Katsina United,Enugu Rangers,1,2,Away Win,1.59,0.58,1.12,0.68,1.36,0.63,0.73
+2021-22,Katsina United,Enyimba,1,0,Home Win,1.59,0.58,1.19,0.66,1.39,0.62,0.77
+2021-22,Katsina United,Gombe United,2,1,Home Win,1.59,0.58,2.0,0.34,1.8,0.46,1.34
+2021-22,Katsina United,Heartland,1,1,Draw,1.59,0.58,1.6,0.51,1.6,0.54,1.05
+2021-22,Katsina United,Kano Pillars,1,0,Home Win,1.59,0.58,1.73,0.67,1.66,0.62,1.04
+2021-22,Katsina United,Kwara United,1,0,Home Win,1.59,0.58,1.59,0.59,1.59,0.59,1.01
+2021-22,Katsina United,Lobi Stars,0,0,Draw,1.59,0.58,1.64,0.58,1.62,0.58,1.04
+2021-22,Katsina United,MFM,2,1,Home Win,1.59,0.58,1.79,0.42,1.69,0.5,1.19
+2021-22,Katsina United,Nasarawa United,1,0,Home Win,1.59,0.58,1.55,0.67,1.57,0.63,0.94
+2021-22,Katsina United,Niger Tornadoes,2,0,Home Win,1.59,0.58,1.49,0.63,1.54,0.6,0.94
+2021-22,Katsina United,Plateau United,2,0,Home Win,1.59,0.58,1.55,0.81,1.57,0.69,0.88
+2021-22,Katsina United,Remo Stars,3,2,Home Win,1.59,0.58,1.38,0.75,1.49,0.67,0.82
+2021-22,Katsina United,Rivers United,0,1,Away Win,1.59,0.58,1.15,0.7,1.37,0.64,0.73
+2021-22,Katsina United,Shooting Stars,3,1,Home Win,1.59,0.58,1.52,0.64,1.56,0.61,0.95
+2021-22,Katsina United,Sunshine Stars,1,0,Home Win,1.59,0.58,1.42,0.45,1.51,0.52,0.99
+2021-22,Katsina United,Wikki Tourists,1,0,Home Win,1.59,0.58,1.5,0.5,1.55,0.54,1.01
+2021-22,Kwara United,Abia Warriors,1,1,Draw,1.36,0.47,1.72,0.8,1.54,0.63,0.9
+2021-22,Kwara United,Akwa United,1,0,Home Win,1.36,0.47,1.35,0.56,1.35,0.51,0.84
+2021-22,Kwara United,Dakkada,3,0,Home Win,1.36,0.47,1.89,0.5,1.62,0.48,1.14
+2021-22,Kwara United,Enugu Rangers,1,1,Draw,1.36,0.47,1.12,0.68,1.24,0.57,0.67
+2021-22,Kwara United,Enyimba,1,0,Home Win,1.36,0.47,1.19,0.66,1.27,0.56,0.71
+2021-22,Kwara United,Gombe United,2,0,Home Win,1.36,0.47,2.0,0.34,1.68,0.4,1.27
+2021-22,Kwara United,Heartland,2,1,Home Win,1.36,0.47,1.6,0.51,1.48,0.49,0.99
+2021-22,Kwara United,Kano Pillars,1,0,Home Win,1.36,0.47,1.73,0.67,1.55,0.57,0.98
+2021-22,Kwara United,Katsina United,2,0,Home Win,1.36,0.47,1.46,0.28,1.41,0.37,1.04
+2021-22,Kwara United,Lobi Stars,1,0,Home Win,1.36,0.47,1.64,0.58,1.5,0.52,0.98
+2021-22,Kwara United,MFM,3,0,Home Win,1.36,0.47,1.79,0.42,1.57,0.44,1.13
+2021-22,Kwara United,Nasarawa United,3,0,Home Win,1.36,0.47,1.55,0.67,1.45,0.57,0.88
+2021-22,Kwara United,Niger Tornadoes,1,0,Home Win,1.36,0.47,1.49,0.63,1.42,0.55,0.88
+2021-22,Kwara United,Plateau United,1,1,Draw,1.36,0.47,1.55,0.81,1.46,0.64,0.82
+2021-22,Kwara United,Remo Stars,2,1,Home Win,1.36,0.47,1.38,0.75,1.37,0.61,0.76
+2021-22,Kwara United,Rivers United,2,1,Home Win,1.36,0.47,1.15,0.7,1.26,0.58,0.67
+2021-22,Kwara United,Shooting Stars,3,1,Home Win,1.36,0.47,1.52,0.64,1.44,0.55,0.88
+2021-22,Kwara United,Sunshine Stars,1,0,Home Win,1.36,0.47,1.42,0.45,1.39,0.46,0.93
+2021-22,Kwara United,Wikki Tourists,1,0,Home Win,1.36,0.47,1.5,0.5,1.43,0.48,0.95
+2021-22,Lobi Stars,Abia Warriors,1,2,Away Win,1.45,0.89,1.72,0.8,1.59,0.85,0.74
+2021-22,Lobi Stars,Akwa United,1,0,Home Win,1.45,0.89,1.35,0.56,1.4,0.73,0.67
+2021-22,Lobi Stars,Dakkada,1,0,Home Win,1.45,0.89,1.89,0.5,1.67,0.7,0.98
+2021-22,Lobi Stars,Enugu Rangers,2,0,Home Win,1.45,0.89,1.12,0.68,1.29,0.78,0.5
+2021-22,Lobi Stars,Enyimba,1,0,Home Win,1.45,0.89,1.19,0.66,1.32,0.78,0.55
+2021-22,Lobi Stars,Gombe United,2,1,Home Win,1.45,0.89,2.0,0.34,1.73,0.62,1.11
+2021-22,Lobi Stars,Heartland,2,1,Home Win,1.45,0.89,1.6,0.51,1.53,0.7,0.82
+2021-22,Lobi Stars,Kano Pillars,0,0,Draw,1.45,0.89,1.73,0.67,1.59,0.78,0.81
+2021-22,Lobi Stars,Katsina United,2,1,Home Win,1.45,0.89,1.46,0.28,1.46,0.59,0.87
+2021-22,Lobi Stars,Kwara United,3,1,Home Win,1.45,0.89,1.59,0.59,1.52,0.74,0.78
+2021-22,Lobi Stars,MFM,2,1,Home Win,1.45,0.89,1.79,0.42,1.62,0.66,0.96
+2021-22,Lobi Stars,Nasarawa United,2,1,Home Win,1.45,0.89,1.55,0.67,1.5,0.78,0.72
+2021-22,Lobi Stars,Niger Tornadoes,1,1,Draw,1.45,0.89,1.49,0.63,1.47,0.76,0.71
+2021-22,Lobi Stars,Plateau United,0,2,Away Win,1.45,0.89,1.55,0.81,1.5,0.85,0.65
+2021-22,Lobi Stars,Remo Stars,1,0,Home Win,1.45,0.89,1.38,0.75,1.42,0.82,0.6
+2021-22,Lobi Stars,Rivers United,1,1,Draw,1.45,0.89,1.15,0.7,1.3,0.8,0.51
+2021-22,Lobi Stars,Shooting Stars,2,1,Home Win,1.45,0.89,1.52,0.64,1.49,0.77,0.72
+2021-22,Lobi Stars,Sunshine Stars,0,0,Draw,1.45,0.89,1.42,0.45,1.44,0.67,0.77
+2021-22,Lobi Stars,Wikki Tourists,3,2,Home Win,1.45,0.89,1.5,0.5,1.48,0.7,0.78
+2021-22,MFM,Abia Warriors,2,1,Home Win,0.95,0.89,1.72,0.8,1.33,0.85,0.49
+2021-22,MFM,Akwa United,0,0,Draw,0.95,0.89,1.35,0.56,1.15,0.73,0.42
+2021-22,MFM,Dakkada,2,0,Home Win,0.95,0.89,1.89,0.5,1.42,0.7,0.72
+2021-22,MFM,Enugu Rangers,0,0,Draw,0.95,0.89,1.12,0.68,1.03,0.79,0.25
+2021-22,MFM,Enyimba,2,1,Home Win,0.95,0.89,1.19,0.66,1.07,0.78,0.29
+2021-22,MFM,Gombe United,3,1,Home Win,0.95,0.89,2.0,0.34,1.47,0.62,0.86
+2021-22,MFM,Heartland,1,0,Home Win,0.95,0.89,1.6,0.51,1.27,0.7,0.57
+2021-22,MFM,Kano Pillars,2,1,Home Win,0.95,0.89,1.73,0.67,1.34,0.78,0.56
+2021-22,MFM,Katsina United,1,0,Home Win,0.95,0.89,1.46,0.28,1.2,0.59,0.62
+2021-22,MFM,Kwara United,1,2,Away Win,0.95,0.89,1.59,0.59,1.27,0.74,0.53
+2021-22,MFM,Lobi Stars,0,0,Draw,0.95,0.89,1.64,0.58,1.29,0.74,0.56
+2021-22,MFM,Nasarawa United,0,1,Away Win,0.95,0.89,1.55,0.67,1.25,0.78,0.46
+2021-22,MFM,Niger Tornadoes,1,2,Away Win,0.95,0.89,1.49,0.63,1.22,0.76,0.46
+2021-22,MFM,Plateau United,1,0,Home Win,0.95,0.89,1.55,0.81,1.25,0.85,0.4
+2021-22,MFM,Remo Stars,0,2,Away Win,0.95,0.89,1.38,0.75,1.17,0.82,0.34
+2021-22,MFM,Rivers United,1,3,Away Win,0.95,0.89,1.15,0.7,1.05,0.8,0.25
+2021-22,MFM,Shooting Stars,0,1,Away Win,0.95,0.89,1.52,0.64,1.23,0.77,0.46
+2021-22,MFM,Sunshine Stars,1,0,Home Win,0.95,0.89,1.42,0.45,1.19,0.67,0.51
+2021-22,MFM,Wikki Tourists,0,2,Away Win,0.95,0.89,1.5,0.5,1.22,0.7,0.53
+2021-22,Nasarawa United,Abia Warriors,2,1,Home Win,1.41,0.69,1.72,0.8,1.56,0.74,0.82
+2021-22,Nasarawa United,Akwa United,2,0,Home Win,1.41,0.69,1.35,0.56,1.38,0.62,0.76
+2021-22,Nasarawa United,Dakkada,1,0,Home Win,1.41,0.69,1.89,0.5,1.65,0.59,1.06
+2021-22,Nasarawa United,Enugu Rangers,1,0,Home Win,1.41,0.69,1.12,0.68,1.26,0.68,0.58
+2021-22,Nasarawa United,Enyimba,2,1,Home Win,1.41,0.69,1.19,0.66,1.3,0.67,0.63
+2021-22,Nasarawa United,Gombe United,1,1,Draw,1.41,0.69,2.0,0.34,1.7,0.51,1.19
+2021-22,Nasarawa United,Heartland,2,0,Home Win,1.41,0.69,1.6,0.51,1.5,0.6,0.9
+2021-22,Nasarawa United,Kano Pillars,1,0,Home Win,1.41,0.69,1.73,0.67,1.57,0.68,0.89
+2021-22,Nasarawa United,Katsina United,1,0,Home Win,1.41,0.69,1.46,0.28,1.43,0.48,0.95
+2021-22,Nasarawa United,Kwara United,1,1,Draw,1.41,0.69,1.59,0.59,1.5,0.64,0.86
+2021-22,Nasarawa United,Lobi Stars,2,1,Home Win,1.41,0.69,1.64,0.58,1.52,0.63,0.89
+2021-22,Nasarawa United,MFM,1,1,Draw,1.41,0.69,1.79,0.42,1.6,0.55,1.05
+2021-22,Nasarawa United,Niger Tornadoes,1,0,Home Win,1.41,0.69,1.49,0.63,1.45,0.66,0.79
+2021-22,Nasarawa United,Plateau United,2,1,Home Win,1.41,0.69,1.55,0.81,1.48,0.75,0.73
+2021-22,Nasarawa United,Remo Stars,1,1,Draw,1.41,0.69,1.38,0.75,1.4,0.72,0.68
+2021-22,Nasarawa United,Rivers United,2,1,Home Win,1.41,0.69,1.15,0.7,1.28,0.69,0.59
+2021-22,Nasarawa United,Shooting Stars,2,0,Home Win,1.41,0.69,1.52,0.64,1.46,0.66,0.8
+2021-22,Nasarawa United,Sunshine Stars,1,1,Draw,1.41,0.69,1.42,0.45,1.42,0.57,0.85
+2021-22,Nasarawa United,Wikki Tourists,1,0,Home Win,1.41,0.69,1.5,0.5,1.45,0.59,0.86
+2021-22,Niger Tornadoes,Abia Warriors,1,1,Draw,1.32,0.58,1.72,0.8,1.52,0.69,0.83
+2021-22,Niger Tornadoes,Akwa United,0,1,Away Win,1.32,0.58,1.35,0.56,1.34,0.57,0.77
+2021-22,Niger Tornadoes,Dakkada,1,0,Home Win,1.32,0.58,1.89,0.5,1.61,0.54,1.07
+2021-22,Niger Tornadoes,Enugu Rangers,2,1,Home Win,1.32,0.58,1.12,0.68,1.22,0.63,0.59
+2021-22,Niger Tornadoes,Enyimba,2,1,Home Win,1.32,0.58,1.19,0.66,1.26,0.62,0.64
+2021-22,Niger Tornadoes,Gombe United,1,0,Home Win,1.32,0.58,2.0,0.34,1.66,0.46,1.2
+2021-22,Niger Tornadoes,Heartland,2,1,Home Win,1.32,0.58,1.6,0.51,1.46,0.54,0.92
+2021-22,Niger Tornadoes,Kano Pillars,2,1,Home Win,1.32,0.58,1.73,0.67,1.53,0.63,0.9
+2021-22,Niger Tornadoes,Katsina United,2,1,Home Win,1.32,0.58,1.46,0.28,1.39,0.43,0.96
+2021-22,Niger Tornadoes,Kwara United,4,0,Home Win,1.32,0.58,1.59,0.59,1.46,0.59,0.87
+2021-22,Niger Tornadoes,Lobi Stars,0,1,Away Win,1.32,0.58,1.64,0.58,1.48,0.58,0.9
+2021-22,Niger Tornadoes,MFM,1,1,Draw,1.32,0.58,1.79,0.42,1.56,0.5,1.06
+2021-22,Niger Tornadoes,Nasarawa United,1,0,Home Win,1.32,0.58,1.55,0.67,1.43,0.63,0.81
+2021-22,Niger Tornadoes,Plateau United,1,0,Home Win,1.32,0.58,1.55,0.81,1.44,0.7,0.74
+2021-22,Niger Tornadoes,Remo Stars,1,0,Home Win,1.32,0.58,1.38,0.75,1.35,0.67,0.69
+2021-22,Niger Tornadoes,Rivers United,0,0,Draw,1.32,0.58,1.15,0.7,1.24,0.64,0.6
+2021-22,Niger Tornadoes,Shooting Stars,2,0,Home Win,1.32,0.58,1.52,0.64,1.42,0.61,0.81
+2021-22,Niger Tornadoes,Sunshine Stars,1,0,Home Win,1.32,0.58,1.42,0.45,1.37,0.52,0.86
+2021-22,Niger Tornadoes,Wikki Tourists,1,0,Home Win,1.32,0.58,1.5,0.5,1.41,0.54,0.87
+2021-22,Plateau United,Abia Warriors,1,0,Home Win,1.78,0.49,1.72,0.8,1.75,0.64,1.11
+2021-22,Plateau United,Akwa United,3,0,Home Win,1.78,0.49,1.35,0.56,1.56,0.52,1.04
+2021-22,Plateau United,Dakkada,5,0,Home Win,1.78,0.49,1.89,0.5,1.84,0.49,1.34
+2021-22,Plateau United,Enugu Rangers,4,0,Home Win,1.78,0.49,1.12,0.68,1.45,0.58,0.87
+2021-22,Plateau United,Enyimba,1,0,Home Win,1.78,0.49,1.19,0.66,1.48,0.57,0.91
+2021-22,Plateau United,Gombe United,1,1,Draw,1.78,0.49,2.0,0.34,1.89,0.41,1.48
+2021-22,Plateau United,Heartland,3,0,Home Win,1.78,0.49,1.6,0.51,1.69,0.5,1.19
+2021-22,Plateau United,Kano Pillars,1,0,Home Win,1.78,0.49,1.73,0.67,1.76,0.58,1.18
+2021-22,Plateau United,Katsina United,1,0,Home Win,1.78,0.49,1.46,0.28,1.62,0.38,1.24
+2021-22,Plateau United,Kwara United,1,0,Home Win,1.78,0.49,1.59,0.59,1.69,0.54,1.15
+2021-22,Plateau United,Lobi Stars,2,1,Home Win,1.78,0.49,1.64,0.58,1.71,0.53,1.18
+2021-22,Plateau United,MFM,2,0,Home Win,1.78,0.49,1.79,0.42,1.78,0.45,1.33
+2021-22,Plateau United,Nasarawa United,3,2,Home Win,1.78,0.49,1.55,0.67,1.66,0.58,1.08
+2021-22,Plateau United,Niger Tornadoes,1,0,Home Win,1.78,0.49,1.49,0.63,1.64,0.56,1.08
+2021-22,Plateau United,Remo Stars,1,0,Home Win,1.78,0.49,1.38,0.75,1.58,0.62,0.96
+2021-22,Plateau United,Rivers United,1,0,Home Win,1.78,0.49,1.15,0.7,1.47,0.6,0.87
+2021-22,Plateau United,Shooting Stars,3,1,Home Win,1.78,0.49,1.52,0.64,1.65,0.56,1.08
+2021-22,Plateau United,Sunshine Stars,2,0,Home Win,1.78,0.49,1.42,0.45,1.6,0.47,1.13
+2021-22,Plateau United,Wikki Tourists,3,1,Home Win,1.78,0.49,1.5,0.5,1.64,0.49,1.15
+2021-22,Remo Stars,Abia Warriors,1,0,Home Win,1.71,0.36,1.72,0.8,1.71,0.58,1.14
+2021-22,Remo Stars,Akwa United,0,1,Away Win,1.71,0.36,1.35,0.56,1.53,0.46,1.07
+2021-22,Remo Stars,Dakkada,4,1,Home Win,1.71,0.36,1.89,0.5,1.8,0.43,1.37
+2021-22,Remo Stars,Enugu Rangers,1,0,Home Win,1.71,0.36,1.12,0.68,1.42,0.52,0.9
+2021-22,Remo Stars,Enyimba,1,0,Home Win,1.71,0.36,1.19,0.66,1.45,0.51,0.95
+2021-22,Remo Stars,Gombe United,1,0,Home Win,1.71,0.36,2.0,0.34,1.86,0.35,1.51
+2021-22,Remo Stars,Heartland,3,0,Home Win,1.71,0.36,1.6,0.51,1.65,0.43,1.22
+2021-22,Remo Stars,Kano Pillars,1,3,Away Win,1.71,0.36,1.73,0.67,1.72,0.51,1.21
+2021-22,Remo Stars,Katsina United,2,0,Home Win,1.71,0.36,1.46,0.28,1.59,0.32,1.27
+2021-22,Remo Stars,Kwara United,3,0,Home Win,1.71,0.36,1.59,0.59,1.65,0.48,1.18
+2021-22,Remo Stars,Lobi Stars,3,1,Home Win,1.71,0.36,1.64,0.58,1.67,0.47,1.21
+2021-22,Remo Stars,MFM,1,0,Home Win,1.71,0.36,1.79,0.42,1.75,0.39,1.36
+2021-22,Remo Stars,Nasarawa United,0,0,Draw,1.71,0.36,1.55,0.67,1.63,0.51,1.11
+2021-22,Remo Stars,Niger Tornadoes,3,0,Home Win,1.71,0.36,1.49,0.63,1.6,0.49,1.11
+2021-22,Remo Stars,Plateau United,1,0,Home Win,1.71,0.36,1.55,0.81,1.63,0.58,1.05
+2021-22,Remo Stars,Rivers United,1,1,Draw,1.71,0.36,1.15,0.7,1.43,0.53,0.9
+2021-22,Remo Stars,Shooting Stars,1,0,Home Win,1.71,0.36,1.52,0.64,1.62,0.5,1.12
+2021-22,Remo Stars,Sunshine Stars,3,0,Home Win,1.71,0.36,1.42,0.45,1.57,0.41,1.16
+2021-22,Remo Stars,Wikki Tourists,1,0,Home Win,1.71,0.36,1.5,0.5,1.61,0.43,1.18
+2021-22,Rivers United,Abia Warriors,2,1,Home Win,1.74,0.44,1.72,0.8,1.73,0.62,1.11
+2021-22,Rivers United,Akwa United,4,1,Home Win,1.74,0.44,1.35,0.56,1.54,0.5,1.04
+2021-22,Rivers United,Dakkada,2,1,Home Win,1.74,0.44,1.89,0.5,1.82,0.47,1.35
+2021-22,Rivers United,Enugu Rangers,1,0,Home Win,1.74,0.44,1.12,0.68,1.43,0.56,0.87
+2021-22,Rivers United,Enyimba,2,0,Home Win,1.74,0.44,1.19,0.66,1.47,0.55,0.92
+2021-22,Rivers United,Gombe United,1,0,Home Win,1.74,0.44,2.0,0.34,1.87,0.39,1.48
+2021-22,Rivers United,Heartland,3,1,Home Win,1.74,0.44,1.6,0.51,1.67,0.47,1.19
+2021-22,Rivers United,Kano Pillars,1,0,Home Win,1.74,0.44,1.73,0.67,1.74,0.56,1.18
+2021-22,Rivers United,Katsina United,3,0,Home Win,1.74,0.44,1.46,0.28,1.6,0.36,1.24
+2021-22,Rivers United,Kwara United,3,0,Home Win,1.74,0.44,1.59,0.59,1.67,0.52,1.15
+2021-22,Rivers United,Lobi Stars,1,0,Home Win,1.74,0.44,1.64,0.58,1.69,0.51,1.18
+2021-22,Rivers United,MFM,5,0,Home Win,1.74,0.44,1.79,0.42,1.76,0.43,1.33
+2021-22,Rivers United,Nasarawa United,2,1,Home Win,1.74,0.44,1.55,0.67,1.64,0.56,1.09
+2021-22,Rivers United,Niger Tornadoes,3,0,Home Win,1.74,0.44,1.49,0.63,1.62,0.53,1.08
+2021-22,Rivers United,Plateau United,2,0,Home Win,1.74,0.44,1.55,0.81,1.65,0.62,1.02
+2021-22,Rivers United,Remo Stars,1,0,Home Win,1.74,0.44,1.38,0.75,1.56,0.6,0.97
+2021-22,Rivers United,Shooting Stars,2,0,Home Win,1.74,0.44,1.52,0.64,1.63,0.54,1.09
+2021-22,Rivers United,Sunshine Stars,0,0,Draw,1.74,0.44,1.42,0.45,1.58,0.45,1.14
+2021-22,Rivers United,Wikki Tourists,3,0,Home Win,1.74,0.44,1.5,0.5,1.62,0.47,1.15
+2021-22,Shooting Stars,Abia Warriors,2,2,Draw,1.52,0.51,1.72,0.8,1.62,0.65,0.97
+2021-22,Shooting Stars,Akwa United,1,1,Draw,1.52,0.51,1.35,0.56,1.43,0.53,0.9
+2021-22,Shooting Stars,Dakkada,1,0,Home Win,1.52,0.51,1.89,0.5,1.71,0.5,1.2
+2021-22,Shooting Stars,Enugu Rangers,1,1,Draw,1.52,0.51,1.12,0.68,1.32,0.59,0.73
+2021-22,Shooting Stars,Enyimba,2,0,Home Win,1.52,0.51,1.19,0.66,1.36,0.58,0.77
+2021-22,Shooting Stars,Gombe United,0,0,Draw,1.52,0.51,2.0,0.34,1.76,0.42,1.34
+2021-22,Shooting Stars,Heartland,4,0,Home Win,1.52,0.51,1.6,0.51,1.56,0.51,1.05
+2021-22,Shooting Stars,Kano Pillars,1,0,Home Win,1.52,0.51,1.73,0.67,1.63,0.59,1.04
+2021-22,Shooting Stars,Katsina United,1,0,Home Win,1.52,0.51,1.46,0.28,1.49,0.39,1.1
+2021-22,Shooting Stars,Kwara United,2,1,Home Win,1.52,0.51,1.59,0.59,1.56,0.55,1.01
+2021-22,Shooting Stars,Lobi Stars,3,0,Home Win,1.52,0.51,1.64,0.58,1.58,0.54,1.04
+2021-22,Shooting Stars,MFM,1,1,Draw,1.52,0.51,1.79,0.42,1.66,0.46,1.19
+2021-22,Shooting Stars,Nasarawa United,1,0,Home Win,1.52,0.51,1.55,0.67,1.53,0.59,0.94
+2021-22,Shooting Stars,Niger Tornadoes,1,0,Home Win,1.52,0.51,1.49,0.63,1.51,0.57,0.94
+2021-22,Shooting Stars,Plateau United,2,1,Home Win,1.52,0.51,1.55,0.81,1.54,0.66,0.88
+2021-22,Shooting Stars,Remo Stars,1,1,Draw,1.52,0.51,1.38,0.75,1.45,0.63,0.82
+2021-22,Shooting Stars,Rivers United,3,2,Home Win,1.52,0.51,1.15,0.7,1.34,0.61,0.73
+2021-22,Shooting Stars,Sunshine Stars,2,2,Draw,1.52,0.51,1.42,0.45,1.47,0.48,0.99
+2021-22,Shooting Stars,Wikki Tourists,0,0,Draw,1.52,0.51,1.5,0.5,1.51,0.5,1.01
+2021-22,Sunshine Stars,Abia Warriors,1,0,Home Win,1.38,0.59,1.72,0.8,1.55,0.69,0.85
+2021-22,Sunshine Stars,Akwa United,0,0,Draw,1.38,0.59,1.35,0.56,1.36,0.58,0.79
+2021-22,Sunshine Stars,Dakkada,2,1,Home Win,1.38,0.59,1.89,0.5,1.64,0.55,1.09
+2021-22,Sunshine Stars,Enugu Rangers,0,0,Draw,1.38,0.59,1.12,0.68,1.25,0.63,0.62
+2021-22,Sunshine Stars,Enyimba,0,1,Away Win,1.38,0.59,1.19,0.66,1.29,0.62,0.66
+2021-22,Sunshine Stars,Gombe United,2,0,Home Win,1.38,0.59,2.0,0.34,1.69,0.47,1.22
+2021-22,Sunshine Stars,Heartland,3,1,Home Win,1.38,0.59,1.6,0.51,1.49,0.55,0.94
+2021-22,Sunshine Stars,Kano Pillars,3,0,Home Win,1.38,0.59,1.73,0.67,1.56,0.63,0.93
+2021-22,Sunshine Stars,Katsina United,2,0,Home Win,1.38,0.59,1.46,0.28,1.42,0.43,0.99
+2021-22,Sunshine Stars,Kwara United,1,0,Home Win,1.38,0.59,1.59,0.59,1.49,0.59,0.89
+2021-22,Sunshine Stars,Lobi Stars,3,0,Home Win,1.38,0.59,1.64,0.58,1.51,0.58,0.92
+2021-22,Sunshine Stars,MFM,2,1,Home Win,1.38,0.59,1.79,0.42,1.58,0.51,1.08
+2021-22,Sunshine Stars,Nasarawa United,2,1,Home Win,1.38,0.59,1.55,0.67,1.46,0.63,0.83
+2021-22,Sunshine Stars,Niger Tornadoes,2,1,Home Win,1.38,0.59,1.49,0.63,1.44,0.61,0.83
+2021-22,Sunshine Stars,Plateau United,1,0,Home Win,1.38,0.59,1.55,0.81,1.47,0.7,0.77
+2021-22,Sunshine Stars,Remo Stars,0,1,Away Win,1.38,0.59,1.38,0.75,1.38,0.67,0.71
+2021-22,Sunshine Stars,Rivers United,1,0,Home Win,1.38,0.59,1.15,0.7,1.27,0.65,0.62
+2021-22,Sunshine Stars,Shooting Stars,0,0,Draw,1.38,0.59,1.52,0.64,1.45,0.62,0.83
+2021-22,Sunshine Stars,Wikki Tourists,2,1,Home Win,1.38,0.59,1.5,0.5,1.44,0.55,0.89
+2021-22,Wikki Tourists,Abia Warriors,1,0,Home Win,1.31,0.51,1.72,0.8,1.52,0.66,0.86
+2021-22,Wikki Tourists,Akwa United,2,0,Home Win,1.31,0.51,1.35,0.56,1.33,0.54,0.79
+2021-22,Wikki Tourists,Dakkada,2,0,Home Win,1.31,0.51,1.89,0.5,1.6,0.51,1.1
+2021-22,Wikki Tourists,Enugu Rangers,0,0,Draw,1.31,0.51,1.12,0.68,1.22,0.59,0.62
+2021-22,Wikki Tourists,Enyimba,0,0,Draw,1.31,0.51,1.19,0.66,1.25,0.59,0.67
+2021-22,Wikki Tourists,Gombe United,1,0,Home Win,1.31,0.51,2.0,0.34,1.66,0.43,1.23
+2021-22,Wikki Tourists,Heartland,0,0,Draw,1.31,0.51,1.6,0.51,1.46,0.51,0.94
+2021-22,Wikki Tourists,Kano Pillars,2,1,Home Win,1.31,0.51,1.73,0.67,1.52,0.59,0.93
+2021-22,Wikki Tourists,Katsina United,2,0,Home Win,1.31,0.51,1.46,0.28,1.39,0.4,0.99
+2021-22,Wikki Tourists,Kwara United,1,1,Draw,1.31,0.51,1.59,0.59,1.45,0.55,0.9
+2021-22,Wikki Tourists,Lobi Stars,1,0,Home Win,1.31,0.51,1.64,0.58,1.48,0.55,0.93
+2021-22,Wikki Tourists,MFM,3,0,Home Win,1.31,0.51,1.79,0.42,1.55,0.47,1.08
+2021-22,Wikki Tourists,Nasarawa United,2,0,Home Win,1.31,0.51,1.55,0.67,1.43,0.59,0.84
+2021-22,Wikki Tourists,Niger Tornadoes,1,0,Home Win,1.31,0.51,1.49,0.63,1.4,0.57,0.83
+2021-22,Wikki Tourists,Plateau United,2,1,Home Win,1.31,0.51,1.55,0.81,1.43,0.66,0.77
+2021-22,Wikki Tourists,Remo Stars,1,2,Away Win,1.31,0.51,1.38,0.75,1.35,0.63,0.72
+2021-22,Wikki Tourists,Rivers United,1,0,Home Win,1.31,0.51,1.15,0.7,1.23,0.61,0.63
+2021-22,Wikki Tourists,Shooting Stars,1,1,Draw,1.31,0.51,1.52,0.64,1.42,0.58,0.84
+2021-22,Wikki Tourists,Sunshine Stars,1,0,Home Win,1.31,0.51,1.42,0.45,1.37,0.48,0.88
+2025-26,Abia Warriors,Barau,2,0,Home Win,1.51,0.49,1.71,0.57,1.61,0.53,1.08
+2025-26,Abia Warriors,Bendel Insurance,0,0,Draw,1.51,0.49,1.11,0.61,1.31,0.55,0.76
+2025-26,Abia Warriors,El-Kanemi Warriors,2,0,Home Win,1.51,0.49,1.75,0.47,1.63,0.48,1.15
+2025-26,Abia Warriors,Enyimba,0,0,Draw,1.51,0.49,1.19,0.66,1.35,0.58,0.77
+2025-26,Abia Warriors,Kano Pillars,1,0,Home Win,1.51,0.49,1.73,0.67,1.62,0.58,1.04
+2025-26,Abia Warriors,Katsina United,1,0,Home Win,1.51,0.49,1.46,0.28,1.48,0.39,1.1
+2025-26,Abia Warriors,Remo Stars,2,0,Home Win,1.51,0.49,1.38,0.75,1.45,0.62,0.82
+2025-26,Barau,Bendel Insurance,1,1,Draw,1.14,0.71,1.11,0.61,1.13,0.66,0.46
+2025-26,Barau,Enugu Rangers,2,0,Home Win,1.14,0.71,1.12,0.68,1.13,0.69,0.44
+2025-26,Barau,Enyimba,0,0,Draw,1.14,0.71,1.19,0.66,1.17,0.69,0.48
+2025-26,Barau,Kano Pillars,2,1,Home Win,1.14,0.71,1.73,0.67,1.44,0.69,0.75
+2025-26,Barau,Kwara United,3,2,Home Win,1.14,0.71,1.59,0.59,1.37,0.65,0.71
+2025-26,Barau,Warri Wolves,0,1,Away Win,1.14,0.71,0.86,0.86,1.0,0.79,0.21
+2025-26,Barau,Wikki Tourists,0,0,Draw,1.14,0.71,1.5,0.5,1.32,0.61,0.71
+2025-26,Bayelsa United,Abia Warriors,2,1,Home Win,1.71,0.95,1.72,0.8,1.71,0.87,0.84
+2025-26,Bayelsa United,Barau,2,0,Home Win,1.71,0.95,1.71,0.57,1.71,0.76,0.95
+2025-26,Bayelsa United,Enyimba,0,2,Away Win,1.71,0.95,1.19,0.66,1.45,0.8,0.65
+2025-26,Bayelsa United,Ikorodu City,1,1,Draw,1.71,0.95,1.35,0.73,1.53,0.84,0.69
+2025-26,Bayelsa United,Katsina United,1,1,Draw,1.71,0.95,1.46,0.28,1.59,0.61,0.97
+2025-26,Bayelsa United,Kun Khalifat,1,2,Away Win,1.71,0.95,1.29,0.71,1.5,0.83,0.67
+2025-26,Bayelsa United,Nasarawa United,1,2,Away Win,1.71,0.95,1.55,0.67,1.63,0.81,0.82
+2025-26,Bayelsa United,Plateau United,2,1,Home Win,1.71,0.95,1.55,0.81,1.63,0.88,0.75
+2025-26,Bendel Insurance,Bayelsa United,1,1,Draw,1.35,0.53,1.37,0.61,1.36,0.57,0.79
+2025-26,Bendel Insurance,Kano Pillars,3,2,Home Win,1.35,0.53,1.73,0.67,1.54,0.6,0.94
+2025-26,Bendel Insurance,Nasarawa United,0,1,Away Win,1.35,0.53,1.55,0.67,1.45,0.6,0.85
+2025-26,Bendel Insurance,Niger Tornadoes,1,0,Home Win,1.35,0.53,1.49,0.63,1.42,0.58,0.84
+2025-26,Bendel Insurance,Rivers United,0,0,Draw,1.35,0.53,1.15,0.7,1.25,0.62,0.63
+2025-26,Bendel Insurance,Shooting Stars,1,1,Draw,1.35,0.53,1.52,0.64,1.43,0.59,0.85
+2025-26,Bendel Insurance,Warri Wolves,1,1,Draw,1.35,0.53,0.86,0.86,1.1,0.69,0.41
+2025-26,Bendel Insurance,Wikki Tourists,3,0,Home Win,1.35,0.53,1.5,0.5,1.42,0.51,0.91
+2025-26,El-Kanemi Warriors,Bendel Insurance,2,0,Home Win,1.09,0.6,1.11,0.61,1.1,0.61,0.49
+2025-26,El-Kanemi Warriors,Enugu Rangers,0,0,Draw,1.09,0.6,1.12,0.68,1.1,0.64,0.47
+2025-26,El-Kanemi Warriors,Kano Pillars,2,1,Home Win,1.09,0.6,1.73,0.67,1.41,0.64,0.77
+2025-26,El-Kanemi Warriors,Kwara United,2,0,Home Win,1.09,0.6,1.59,0.59,1.34,0.6,0.74
+2025-26,El-Kanemi Warriors,Rivers United,0,0,Draw,1.09,0.6,1.15,0.7,1.12,0.65,0.47
+2025-26,El-Kanemi Warriors,Warri Wolves,1,0,Home Win,1.09,0.6,0.86,0.86,0.97,0.73,0.24
+2025-26,El-Kanemi Warriors,Wikki Tourists,2,1,Home Win,1.09,0.6,1.5,0.5,1.29,0.55,0.74
+2025-26,Enugu Rangers,Abia Warriors,2,0,Home Win,1.6,0.56,1.72,0.8,1.66,0.68,0.98
+2025-26,Enugu Rangers,Katsina United,1,0,Home Win,1.6,0.56,1.46,0.28,1.53,0.42,1.11
+2025-26,Enugu Rangers,Kun Khalifat,0,0,Draw,1.6,0.56,1.29,0.71,1.44,0.64,0.81
+2025-26,Enugu Rangers,Kwara United,0,0,Draw,1.6,0.56,1.59,0.59,1.6,0.58,1.02
+2025-26,Enugu Rangers,Niger Tornadoes,1,0,Home Win,1.6,0.56,1.49,0.63,1.55,0.6,0.95
+2025-26,Enugu Rangers,Plateau United,2,0,Home Win,1.6,0.56,1.55,0.81,1.58,0.69,0.89
+2025-26,Enugu Rangers,Shooting Stars,1,0,Home Win,1.6,0.56,1.52,0.64,1.56,0.6,0.96
+2025-26,Enyimba,Bendel Insurance,3,2,Home Win,1.55,0.57,1.11,0.61,1.33,0.59,0.74
+2025-26,Enyimba,Enugu Rangers,2,1,Home Win,1.55,0.57,1.12,0.68,1.34,0.62,0.72
+2025-26,Enyimba,Kano Pillars,2,0,Home Win,1.55,0.57,1.73,0.67,1.64,0.62,1.02
+2025-26,Enyimba,Nasarawa United,0,0,Draw,1.55,0.57,1.55,0.67,1.55,0.62,0.93
+2025-26,Enyimba,Niger Tornadoes,1,0,Home Win,1.55,0.57,1.49,0.63,1.52,0.6,0.92
+2025-26,Enyimba,Rivers United,0,0,Draw,1.55,0.57,1.15,0.7,1.35,0.64,0.72
+2025-26,Enyimba,Warri Wolves,1,2,Away Win,1.55,0.57,0.86,0.86,1.21,0.71,0.49
+2025-26,Enyimba,Wikki Tourists,0,1,Away Win,1.55,0.57,1.5,0.5,1.53,0.53,0.99
+2025-26,Ikorodu City,Abia Warriors,1,0,Home Win,2.19,0.74,1.72,0.8,1.95,0.77,1.18
+2025-26,Ikorodu City,Barau,2,0,Home Win,2.19,0.74,1.71,0.57,1.95,0.66,1.29
+2025-26,Ikorodu City,Bendel Insurance,1,0,Home Win,2.19,0.74,1.11,0.61,1.65,0.68,0.97
+2025-26,Ikorodu City,El-Kanemi Warriors,0,0,Draw,2.19,0.74,1.75,0.47,1.97,0.61,1.36
+2025-26,Ikorodu City,Enyimba,1,1,Draw,2.19,0.74,1.19,0.66,1.69,0.7,0.99
+2025-26,Ikorodu City,Kun Khalifat,2,0,Home Win,2.19,0.74,1.29,0.71,1.74,0.73,1.01
+2025-26,Ikorodu City,Nasarawa United,2,0,Home Win,2.19,0.74,1.55,0.67,1.87,0.71,1.16
+2025-26,Ikorodu City,Plateau United,2,1,Home Win,2.19,0.74,1.55,0.81,1.87,0.78,1.09
+2025-26,Kano Pillars,Bayelsa United,0,0,Draw,1.44,0.58,1.37,0.61,1.4,0.59,0.81
+2025-26,Kano Pillars,Enugu Rangers,1,0,Home Win,1.44,0.58,1.12,0.68,1.28,0.63,0.65
+2025-26,Kano Pillars,Ikorodu City,2,1,Home Win,1.44,0.58,1.35,0.73,1.39,0.65,0.74
+2025-26,Kano Pillars,Kwara United,1,0,Home Win,1.44,0.58,1.59,0.59,1.52,0.59,0.93
+2025-26,Kano Pillars,Niger Tornadoes,0,2,Away Win,1.44,0.58,1.49,0.63,1.47,0.6,0.86
+2025-26,Kano Pillars,Shooting Stars,1,1,Draw,1.44,0.58,1.52,0.64,1.48,0.61,0.87
+2025-26,Kano Pillars,Wikki Tourists,1,1,Draw,1.44,0.58,1.5,0.5,1.47,0.54,0.93
+2025-26,Katsina United,Barau,1,1,Draw,1.59,0.58,1.71,0.57,1.65,0.57,1.08
+2025-26,Katsina United,El-Kanemi Warriors,1,0,Home Win,1.59,0.58,1.75,0.47,1.67,0.53,1.15
+2025-26,Katsina United,Enyimba,3,2,Home Win,1.59,0.58,1.19,0.66,1.39,0.62,0.77
+2025-26,Katsina United,Kano Pillars,1,0,Home Win,1.59,0.58,1.73,0.67,1.66,0.62,1.04
+2025-26,Katsina United,Remo Stars,3,1,Home Win,1.59,0.58,1.38,0.75,1.49,0.67,0.82
+2025-26,Katsina United,Warri Wolves,0,1,Away Win,1.59,0.58,0.86,0.86,1.23,0.72,0.51
+2025-26,Katsina United,Wikki Tourists,1,0,Home Win,1.59,0.58,1.5,0.5,1.55,0.54,1.01
+2025-26,Kun Khalifat,Barau,1,3,Away Win,1.25,1.12,1.71,0.57,1.48,0.85,0.63
+2025-26,Kun Khalifat,Bendel Insurance,1,1,Draw,1.25,1.12,1.11,0.61,1.18,0.87,0.31
+2025-26,Kun Khalifat,El-Kanemi Warriors,3,1,Home Win,1.25,1.12,1.75,0.47,1.5,0.8,0.7
+2025-26,Kun Khalifat,Enyimba,1,0,Home Win,1.25,1.12,1.19,0.66,1.22,0.89,0.33
+2025-26,Kun Khalifat,Nasarawa United,1,1,Draw,1.25,1.12,1.55,0.67,1.4,0.9,0.5
+2025-26,Kun Khalifat,Plateau United,2,0,Home Win,1.25,1.12,1.55,0.81,1.4,0.97,0.43
+2025-26,Kun Khalifat,Remo Stars,1,2,Away Win,1.25,1.12,1.38,0.75,1.32,0.94,0.38
+2025-26,Kun Khalifat,Rivers United,0,1,Away Win,1.25,1.12,1.15,0.7,1.2,0.91,0.29
+2025-26,Kwara United,Abia Warriors,0,1,Away Win,1.36,0.47,1.72,0.8,1.54,0.63,0.9
+2025-26,Kwara United,Ikorodu City,0,0,Draw,1.36,0.47,1.35,0.73,1.35,0.6,0.75
+2025-26,Kwara United,Katsina United,1,0,Home Win,1.36,0.47,1.46,0.28,1.41,0.37,1.04
+2025-26,Kwara United,Kun Khalifat,2,0,Home Win,1.36,0.47,1.29,0.71,1.32,0.59,0.73
+2025-26,Kwara United,Plateau United,2,1,Home Win,1.36,0.47,1.55,0.81,1.46,0.64,0.82
+2025-26,Kwara United,Remo Stars,3,1,Home Win,1.36,0.47,1.38,0.75,1.37,0.61,0.76
+2025-26,Kwara United,Shooting Stars,0,0,Draw,1.36,0.47,1.52,0.64,1.44,0.55,0.88
+2025-26,Nasarawa United,Abia Warriors,1,0,Home Win,1.41,0.69,1.72,0.8,1.56,0.74,0.82
+2025-26,Nasarawa United,El-Kanemi Warriors,3,0,Home Win,1.41,0.69,1.75,0.47,1.58,0.58,1.0
+2025-26,Nasarawa United,Enugu Rangers,2,1,Home Win,1.41,0.69,1.12,0.68,1.26,0.68,0.58
+2025-26,Nasarawa United,Katsina United,2,0,Home Win,1.41,0.69,1.46,0.28,1.43,0.48,0.95
+2025-26,Nasarawa United,Kwara United,1,1,Draw,1.41,0.69,1.59,0.59,1.5,0.64,0.86
+2025-26,Nasarawa United,Remo Stars,2,1,Home Win,1.41,0.69,1.38,0.75,1.4,0.72,0.68
+2025-26,Nasarawa United,Wikki Tourists,1,0,Home Win,1.41,0.69,1.5,0.5,1.45,0.59,0.86
+2025-26,Niger Tornadoes,Abia Warriors,1,2,Away Win,1.32,0.58,1.72,0.8,1.52,0.69,0.83
+2025-26,Niger Tornadoes,Bayelsa United,1,0,Home Win,1.32,0.58,1.37,0.61,1.35,0.6,0.75
+2025-26,Niger Tornadoes,Ikorodu City,4,2,Home Win,1.32,0.58,1.35,0.73,1.34,0.66,0.68
+2025-26,Niger Tornadoes,Katsina United,2,0,Home Win,1.32,0.58,1.46,0.28,1.39,0.43,0.96
+2025-26,Niger Tornadoes,Kun Khalifat,1,1,Draw,1.32,0.58,1.29,0.71,1.31,0.65,0.66
+2025-26,Niger Tornadoes,Nasarawa United,1,0,Home Win,1.32,0.58,1.55,0.67,1.43,0.63,0.81
+2025-26,Niger Tornadoes,Plateau United,4,0,Home Win,1.32,0.58,1.55,0.81,1.44,0.7,0.74
+2025-26,Niger Tornadoes,Remo Stars,1,0,Home Win,1.32,0.58,1.38,0.75,1.35,0.67,0.69
+2025-26,Plateau United,Barau,2,0,Home Win,1.78,0.49,1.71,0.57,1.75,0.53,1.22
+2025-26,Plateau United,Bendel Insurance,1,0,Home Win,1.78,0.49,1.11,0.61,1.44,0.55,0.9
+2025-26,Plateau United,El-Kanemi Warriors,1,0,Home Win,1.78,0.49,1.75,0.47,1.76,0.48,1.28
+2025-26,Plateau United,Enyimba,2,1,Home Win,1.78,0.49,1.19,0.66,1.48,0.57,0.91
+2025-26,Plateau United,Katsina United,1,2,Away Win,1.78,0.49,1.46,0.28,1.62,0.38,1.24
+2025-26,Plateau United,Remo Stars,2,0,Home Win,1.78,0.49,1.38,0.75,1.58,0.62,0.96
+2025-26,Remo Stars,Barau,2,0,Home Win,1.71,0.36,1.71,0.57,1.71,0.46,1.25
+2025-26,Remo Stars,El-Kanemi Warriors,2,1,Home Win,1.71,0.36,1.75,0.47,1.73,0.41,1.32
+2025-26,Remo Stars,Enugu Rangers,0,1,Away Win,1.71,0.36,1.12,0.68,1.42,0.52,0.9
+2025-26,Remo Stars,Kano Pillars,1,0,Home Win,1.71,0.36,1.73,0.67,1.72,0.51,1.21
+2025-26,Remo Stars,Rivers United,1,1,Draw,1.71,0.36,1.15,0.7,1.43,0.53,0.9
+2025-26,Remo Stars,Warri Wolves,1,0,Home Win,1.71,0.36,0.86,0.86,1.28,0.61,0.68
+2025-26,Remo Stars,Wikki Tourists,2,0,Home Win,1.71,0.36,1.5,0.5,1.61,0.43,1.18
+2025-26,Rivers United,Bayelsa United,1,2,Away Win,1.74,0.44,1.37,0.61,1.56,0.52,1.03
+2025-26,Rivers United,Ikorodu City,0,0,Draw,1.74,0.44,1.35,0.73,1.54,0.58,0.96
+2025-26,Rivers United,Kwara United,1,0,Home Win,1.74,0.44,1.59,0.59,1.67,0.52,1.15
+2025-26,Rivers United,Nasarawa United,1,0,Home Win,1.74,0.44,1.55,0.67,1.64,0.56,1.09
+2025-26,Rivers United,Niger Tornadoes,1,0,Home Win,1.74,0.44,1.49,0.63,1.62,0.53,1.08
+2025-26,Rivers United,Shooting Stars,1,0,Home Win,1.74,0.44,1.52,0.64,1.63,0.54,1.09
+2025-26,Rivers United,Warri Wolves,2,1,Home Win,1.74,0.44,0.86,0.86,1.3,0.65,0.65
+2025-26,Shooting Stars,Abia Warriors,2,0,Home Win,1.52,0.51,1.72,0.8,1.62,0.65,0.97
+2025-26,Shooting Stars,Bayelsa United,0,1,Away Win,1.52,0.51,1.37,0.61,1.45,0.56,0.89
+2025-26,Shooting Stars,El-Kanemi Warriors,1,0,Home Win,1.52,0.51,1.75,0.47,1.64,0.49,1.15
+2025-26,Shooting Stars,Ikorodu City,1,1,Draw,1.52,0.51,1.35,0.73,1.43,0.62,0.81
+2025-26,Shooting Stars,Katsina United,1,1,Draw,1.52,0.51,1.46,0.28,1.49,0.39,1.1
+2025-26,Shooting Stars,Kun Khalifat,2,1,Home Win,1.52,0.51,1.29,0.71,1.4,0.61,0.79
+2025-26,Shooting Stars,Plateau United,1,0,Home Win,1.52,0.51,1.55,0.81,1.54,0.66,0.88
+2025-26,Warri Wolves,Bayelsa United,2,0,Home Win,1.0,0.75,1.37,0.61,1.19,0.68,0.5
+2025-26,Warri Wolves,Enugu Rangers,2,0,Home Win,1.0,0.75,1.12,0.68,1.06,0.71,0.35
+2025-26,Warri Wolves,Ikorodu City,0,2,Away Win,1.0,0.75,1.35,0.73,1.17,0.74,0.43
+2025-26,Warri Wolves,Kun Khalifat,1,1,Draw,1.0,0.75,1.29,0.71,1.14,0.73,0.41
+2025-26,Warri Wolves,Kwara United,0,0,Draw,1.0,0.75,1.59,0.59,1.3,0.67,0.62
+2025-26,Warri Wolves,Nasarawa United,1,0,Home Win,1.0,0.75,1.55,0.67,1.27,0.71,0.56
+2025-26,Warri Wolves,Niger Tornadoes,1,1,Draw,1.0,0.75,1.49,0.63,1.25,0.69,0.56
+2025-26,Warri Wolves,Shooting Stars,1,2,Away Win,1.0,0.75,1.52,0.64,1.26,0.7,0.56
+2025-26,Wikki Tourists,Abia Warriors,1,0,Home Win,1.31,0.51,1.72,0.8,1.52,0.66,0.86
+2025-26,Wikki Tourists,Bayelsa United,1,1,Draw,1.31,0.51,1.37,0.61,1.34,0.56,0.78
+2025-26,Wikki Tourists,Enugu Rangers,2,2,Draw,1.31,0.51,1.12,0.68,1.22,0.59,0.62
+2025-26,Wikki Tourists,Kwara United,1,1,Draw,1.31,0.51,1.59,0.59,1.45,0.55,0.9
+2025-26,Wikki Tourists,Niger Tornadoes,1,0,Home Win,1.31,0.51,1.49,0.63,1.4,0.57,0.83
+2025-26,Wikki Tourists,Plateau United,1,0,Home Win,1.31,0.51,1.55,0.81,1.43,0.66,0.77
+2025-26,Wikki Tourists,Shooting Stars,2,0,Home Win,1.31,0.51,1.52,0.64,1.42,0.58,0.84
